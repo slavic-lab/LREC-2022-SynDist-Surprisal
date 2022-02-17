@@ -9,6 +9,7 @@ from collections import defaultdict
 from nltk import edit_distance
 import pandas as pd
 from statistics import mean
+from matplotlib import pyplot as plt
 import seaborn as sns
 sns.set(font_scale=1.0)
 

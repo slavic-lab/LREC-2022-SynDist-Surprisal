@@ -84,7 +84,7 @@ BE,плашч,pɫaʂʧ,CS,plášť,plaːʃc,0.6666666666666666,x
 BE,той,toj,CS,ten,tɛn,0.6666666666666666,x
 BE,хто,xto,CS,kdo,ɡdo,0.6666666666666666,x
 BE,хто,xto,CS,kdo,ɡdo,0.6666666666666666,x
-BE,напаткалі,napatkalʲi,CS,spatřili,spatrɪlɪ,0.7,
+BE,напаткалі,napatkalʲi,CS,spatřili,spatr̝ɪlɪ,0.7,
 BE,плашч,pɫaʂʧ,CS,pláštěm,plaːʃcɛm,0.75,x
 BE,тады,tadi,CS,pak,pak,0.75,
 BE,тады,tadi,CS,tu,tu,0.75,
@@ -135,42 +135,42 @@ BE,быў,biu,HR,bio,bio,0.3333333333333333,x
 BE,тады,tadi,HR,tada,tadaː,0.4,x
 BE,але,alʲe,HR,ali,ali,0.5,x
 BE,іх,ix,HR,njih,ɲiːx,0.5,x
-BE,сонца,sonʦa,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
-BE,сонца,sonʦa,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
-BE,сонца,sonʦa,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
+BE,сонца,sonʦa,HR,sunce,suːnʦe,0.5,x
+BE,сонца,sonʦa,HR,sunce,suːnʦe,0.5,x
+BE,сонца,sonʦa,HR,sunce,suːnʦe,0.5,x
 BE,калі,kalʲi,HR,kad,kad,0.6,
 BE,моцы,moʦi,HR,mogao,moɡao,0.6,
 BE,вандроўніка,vandrownʲika,HR,putnika,puːtnika,0.6666666666666666,
-BE,спрачаліся,spraʧalʲisʲa,HR,raspravljali,raspraʋʎali,0.6666666666666666,
+BE,першы,pʲerʂi,HR,prvi,prʋiː,0.6666666666666666,
+BE,спрачаліся,spraʧalʲisʲa,HR,raspravljali,raspraʋʎali,0.6666666666666666,x
 BE,хто,xto,HR,tko,tko,0.6666666666666666,x
-BE,цёплы,ʦʲopɫi,HR,topli,topliː,0.6666666666666666,x
+BE,цёплы,ʦʲopɫi,HR,topli,topliː,0.6666666666666666,
 BE,вымушаны,vimuʂani,HR,primoran,primoːraːn,0.7,
-BE,мацнейшым,maʦnʲeiʂim,HR,jačim,jaʧiːm,0.7,
+BE,мацнейшым,maʦnʲeiʂim,HR,jačim,jaʧiːm,0.7,x
 BE,вецер,vʲeʦʲer,HR,vjetar,ʋjetar,0.7142857142857143,x
 BE,вецер,vʲeʦʲer,HR,vjetar,ʋjetar,0.7142857142857143,x
 BE,вецер,vʲeʦʲer,HR,vjetar,ʋjetar,0.7142857142857143,x
-BE,вецер,vʲeʦʲer,HR,vjetar,ʋjetar,0.7142857142857143,x
+BE,вецер,vʲeʦʲer,HR,vjetar,ʋjetar,0.7142857142857143,
 BE,загорнутага,zaʁornutaʁa,HR,umotan,umotaːn,0.7272727272727273,
 BE,нарэшце,nareʂʦʲe,HR,na kraju,nakraju,0.75,
-BE,шчыльней,ʂʧilʲnʲej,HR,više,ʋiʃeː,0.7777777777777778,
-BE,будзе,buʣʲe,HR,biti,biti,0.8,~
+BE,шчыльней,ʂʧilʲnʲej,HR,više,ʋiʃeː,0.7777777777777778,~
+BE,будзе,buʣʲe,HR,biti,biti,0.8,
 BE,будзе,buʣʲe,HR,će,ʨe,0.8,
 BE,мацнейшым,maʦnʲejʂim,HR,jače,jaʧeː,0.8,
 BE,паўночны,pawnoʧni,HR,sjeverni,sjeʋeːrniː,0.8,
 BE,паўночны,pawnoʃni,HR,sjeverni,sjeʋeːrniː,0.8,
 BE,паўночны,pawnoʧni,HR,sjeverni,sjeʋeːrniː,0.8,
-BE,паўночны,pawnoʧni,HR,sjeverni,sjeʋeːrniː,0.8,
-BE,таго,taʁo,HR,tome,tomeː,0.8,x
+BE,паўночны,pawnoʧni,HR,sjeverni,sjeʋeːrniː,0.8,x
+BE,таго,taʁo,HR,tome,tomeː,0.8,
 BE,той,toj,HR,onaj,onaːj,0.8,
 BE,вандроўнік,vandrownʲik,HR,putnik,puːtniːk,0.8181818181818182,
 BE,вандроўнік,vandrownʲik,HR,putnik,puːtniːk,0.8181818181818182,
 BE,вандроўніка,vandrownʲika,HR,putnik,puːtniːk,0.8333333333333334,
 BE,захутваўся,zaxutivawsʲa,HR,umotavao,umotaːʋao,0.8333333333333334,
-BE,наконт,nakont,HR,o,o,0.8333333333333334,
-BE,першы,pʲerʂi,HR,prvi,prʋiː,0.8333333333333334,x
+BE,наконт,nakont,HR,o,o,0.8333333333333334,x
 BE,пагадзіліся,paʁaʣʲilʲisʲa,HR,dogovorili,doɡoʋorili,0.8461538461538461,
+BE,заззяла,zazʲaɫa,HR,sjati,sjati,0.8571428571428571,
 BE,мацней,maʦnʲej,HR,više,ʋiʃeː,0.8571428571428571,
-BE,заззяла,zazʲaɫa,HR,sjati,sjati,0.875,
 BE,падзьмуў,paʣʲmuw,HR,zapuhao,zapuːxao,0.875,
 BE,імгненна,imʁnʲenːa,HR,odmah,odmaːx,0.8888888888888888,
 BE,мацнейшы,maʦnʲejʂi,HR,jači,jaʧiː,0.8888888888888888,
@@ -260,60 +260,60 @@ BE,ў,u,PL,w,f,1.0,x
 BE,што,ʂto,PL,że,ʒe,1.0,
 BE,што,ʂto,PL,że,ʒe,1.0,
 BE,з,z,SK,z,z,0.0,x
-BE,чым,ʧim,SK,čim,ʧim,0.25,x
-BE,тым,tim,SK,tým,tiːm,0.4,x
+BE,чым,ʧim,SK,čim,ʧi̞m,0.25,x
+BE,тым,tim,SK,tým,ti̞ːm,0.4,x
 BE,але,alʲe,SK,ale,alɛ,0.5,x
 BE,з,z,SK,zo,zɔ,0.5,x
 BE,тады,tadi,SK,tak,taɡ,0.5,
 BE,плашч,plaʂʧ,SK,plášťom,plaːʃcɔm,0.625,x
-BE,прызнаць,priznaʦʲ,SK,uznať,uznac,0.625,x
-BE,загорнутага,zaʁornutaʁa,SK,zakrytý,zakritiː,0.6363636363636364,
+BE,прызнаць,priznaʦʲ,SK,uznať,u̞znac,0.625,x
+BE,загорнутага,zaʁornutaʁa,SK,zakrytý,zakri̞ti̞ː,0.6363636363636364,
 BE,плашч,pɫaʂʧ,SK,plášť,plaːʃc,0.6666666666666666,x
 BE,плашч,pɫaʂʧ,SK,plášť,plaːʃc,0.6666666666666666,x
 BE,той,toj,SK,ten,tɛn,0.6666666666666666,x
 BE,хто,xto,SK,kto,ktɔ,0.6666666666666666,x
 BE,хто,xto,SK,kto,ktɔ,0.6666666666666666,x
-BE,напаткалі,napatkalʲi,SK,zbadali,zbadali,0.7,
-BE,захутваўся,zaxutivawsʲa,SK,zakrýval,zakriːʋal,0.75,
-BE,іх,ix,SK,nich,ɲiɣ,0.75,x
+BE,напаткалі,napatkalʲi,SK,zbadali,zbadali̞,0.7,
+BE,захутваўся,zaxutivawsʲa,SK,zakrýval,zakri̞ːʋal,0.75,
+BE,іх,ix,SK,nich,ɲi̞ɣ,0.75,x
 BE,плашч,pɫaʂʧ,SK,plášťom,plaːʃcɔm,0.75,x
-BE,спрачаліся,spraʧalʲisʲa,SK,hádali,ɦaːdali,0.75,
-BE,нарэшце,nareʂʦʲe,SK,nakoniec,nakɔɲɪɛʦ,0.7777777777777778,
-BE,вандроўніка,vandrownʲika,SK,pocestný,pɔʦɛstniː,0.8333333333333334,
-BE,мацнейшы,maʦnʲejʂi,SK,silnejší,silɲɛjʃiː,0.8333333333333334,
-BE,сонца,sonʦa,SK,slnko,slŋkɔ,0.8333333333333334,x
-BE,сонца,sonʦa,SK,slnko,slŋkɔ,0.8333333333333334,x
-BE,сонца,sonʦa,SK,slnko,slŋkɔ,0.8333333333333334,x
-BE,пагадзіліся,paʁaʣʲilʲisʲa,SK,dohodli,dɔɦɔdli,0.8461538461538461,
-BE,першы,pʲerʂi,SK,prvý,prʋiː,0.8571428571428571,x
-BE,імгненна,imʁnʲenːa,SK,za malú chvíľku,zamaluːxʋiːʎku,0.875,
-BE,спробы,sprobi,SK,námahy,naːmaɦi,0.875,
-BE,вандроўнік,vandrownʲik,SK,pocestný,pɔʦɛstniː,0.9090909090909091,
-BE,зняў,znʲaw,SK,vyzliekol,ʋizlɪɛkɔl,0.9090909090909091,
-BE,зняць,zʲnʲaʦʲ,SK,vyzliekol,ʋizlɪɛkɔl,0.9090909090909091,
-BE,мацнейшым,maʦnʲeiʂim,SK,silnejší,silɲɛjʃiː,0.9090909090909091,
-BE,мацнейшым,maʦnʲejʂim,SK,silnejšie,silɲɛjʃɪɛ,0.9090909090909091,
+BE,спрачаліся,spraʧalʲisʲa,SK,hádali,ɦaːdali̞,0.75,
+BE,нарэшце,nareʂʦʲe,SK,nakoniec,nakɔɲɪ̯ɛʦ,0.7777777777777778,
+BE,сонца,sonʦa,SK,slnko,slŋkɔ,0.8,
+BE,сонца,sonʦa,SK,slnko,slŋkɔ,0.8,
+BE,сонца,sonʦa,SK,slnko,slŋkɔ,0.8,x
+BE,мацнейшы,maʦnʲejʂi,SK,silnejší,si̞lɲɛjʃi̞ː,0.8181818181818182,x
+BE,вандроўніка,vandrownʲika,SK,pocestný,pɔʦɛstni̞ː,0.8333333333333334,x
+BE,першы,pʲerʂi,SK,prvý,prʋi̞ː,0.8333333333333334,
+BE,пагадзіліся,paʁaʣʲilʲisʲa,SK,dohodli,dɔɦɔdli̞,0.8461538461538461,x
+BE,імгненна,imʁnʲenːa,SK,za malú chvíľku,zamalu̞ːxʋi̞ːʎku,0.875,
+BE,спробы,sprobi,SK,námahy,naːmaɦi̞,0.875,
+BE,вандроўнік,vandrownʲik,SK,pocestný,pɔʦɛstni̞ː,0.9090909090909091,
+BE,зняў,znʲaw,SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,0.9090909090909091,
+BE,зняць,zʲnʲaʦʲ,SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,0.9090909090909091,
+BE,мацнейшым,maʦnʲeiʂim,SK,silnejší,si̞lɲɛjʃi̞ː,0.9090909090909091,
+BE,мацнейшым,maʦnʲejʂim,SK,silnejšie,si̞lɲɛjʃɪ̯ɛ,0.9090909090909091,
 BE,было,biɫo,SK,je,jɛ,1.0,~
 BE,быў,biw,SK,je,jɛ,1.0,~
-BE,вандроўнік,vandrownʲik,SK,pocestnému,pɔʦɛstnɛːmu,1.0,
+BE,вандроўнік,vandrownʲik,SK,pocestnému,pɔʦɛstnɛːmu̞,1.0,
 BE,вандроўніка,vandrownʲika,SK,pocestného,pɔʦɛstɲɛːɦɔ,1.0,
-BE,дзьмуў,ʣʲmuw,SK,fúkal,fuːkal,1.0,
-BE,заззяла,zazʲaɫa,SK,svietiť,sʋɪɛcic,1.0,
+BE,дзьмуў,ʣʲmuw,SK,fúkal,fu̞ːkal,1.0,
+BE,заззяла,zazʲaɫa,SK,svietiť,sʋɪ̯ɛci̞c,1.0,
 BE,і,i,SK,a,a,1.0,
 BE,калі,kalʲi,SK,v tom,ftɔm,1.0,
-BE,мацней,maʦnʲej,SK,viac,ʋɪaʦ,1.0,
-BE,моцы,moʦi,SK,síl,siːl,1.0,
-BE,падзьмуў,paʣʲmuw,SK,fúkať,fuːkaɟ,1.0,
+BE,мацней,maʦnʲej,SK,viac,ʋɪ̯aʦ,1.0,
+BE,моцы,moʦi,SK,síl,si̞ːl,1.0,
+BE,падзьмуў,paʣʲmuw,SK,fúkať,fu̞ːkaɟ,1.0,
 BE,пакінуў,pakʲinuw,SK,vzdal,vzdal,1.0,
 BE,паўночны,pawnoʧni,SK,severák,sɛʋɛraːk,1.0,
 BE,паўночны,pawnoʃni,SK,severák,sɛʋɛraːk,1.0,
 BE,паўночны,pawnoʧni,SK,severák,sɛʋɛraːɡ,1.0,
 BE,паўночны,pawnoʧni,SK,severák,sɛʋɛraːk,1.0,
 BE,тады,tadi,SK,potom,pɔtɔm,1.0,
-BE,усяе,usʲaje,SK,všetkých,fʃɛtkiːx,1.0,x
+BE,усяе,usʲaje,SK,všetkých,fʃɛtki̞ːx,1.0,x
 BE,што,ʂto,SK,že,ʒɛ,1.0,
 BE,што,ʂto,SK,že,ʒɛ,1.0,
-BE,шчыльней,ʂʧilʲnʲej,SK,viac,ʋɪaʦ,1.0,
+BE,шчыльней,ʂʧilʲnʲej,SK,viac,ʋɪ̯aʦ,1.0,
 BE,з,z,SL,z,z,0.0,x
 BE,ў,u,SL,v,u,0.0,x
 BE,плашч,plaʂʧ,SL,plašč,plaːʃʧ,0.3333333333333333,x
@@ -398,21 +398,21 @@ BE,вандроўніка,vandrownʲika,UK,мандрівника,mandrʲiʋnɪk
 BE,захутваўся,zaxutivawsʲa,UK,кутався,kutaʋsʲa,0.5,
 BE,вандроўнік,vandrownʲik,UK,мандрівник,mandrʲiʋnɪk,0.5454545454545454,x
 BE,вандроўнік,vandrownʲik,UK,мандрівник,mandrʲiʋnɪk,0.5454545454545454,x
-BE,паўночны,pawnoʧni,UK,північний,pʲiʋnʲiʧnɪi̯,0.5454545454545454,x
-BE,паўночны,pawnoʧni,UK,північний,pʲiʋnʲiʧnɪi̯,0.5454545454545454,x
 BE,шчыльней,ʂʧilʲnʲej,UK,щільніше,ʃʧɪlʲniʃɛ,0.5555555555555556,x
 BE,усяе,usʲaje,UK,усієї,usijɛji,0.5714285714285714,x
+BE,паўночны,pawnoʧni,UK,північний,pʲiʋnʲiʧnɪi̯,0.5833333333333334,x
+BE,паўночны,pawnoʧni,UK,північний,pʲiʋnʲiʧnɪi̯,0.5833333333333334,x
 BE,паўночны,pawnoʧni,UK,північний,pʲiʋnʲiʧnɪi̯,0.5833333333333334,x
 BE,будзе,buʣʲe,UK,буде,budɛ,0.6,x
 BE,вымушаны,vimuʂani,UK,вимушений,ʋɪmuʃɛnɪi̯,0.6,x
 BE,прымусіць,primusʲiʦʲ,UK,вимусить,ʋɪmusɪtʲ,0.6,x
 BE,свой,svoj,UK,своє,sʋɔjɛ,0.6,x
 BE,прызнаць,priznaʦʲ,UK,визнати,ʋɪznatɪ,0.625,x
-BE,паўночны,pawnoʃni,UK,північний,pʲiʋnʲiʧnɪi̯,0.6363636363636364,x
 BE,быў,biu,UK,був,buʋ,0.6666666666666666,x
 BE,ён,jon,UK,він,ʋin,0.6666666666666666,x
 BE,іх,ix,UK,них,nɪx,0.6666666666666666,x
 BE,іх,ʔix,UK,них,nɪx,0.6666666666666666,x
+BE,паўночны,pawnoʃni,UK,північний,pʲiʋnʲiʧnɪi̯,0.6666666666666666,x
 BE,плашч,plaʂʧ,UK,пальто,palʲtɔ,0.6666666666666666,
 BE,мацнейшым,maʦnʲeiʂim,UK,сильнішим,sɪlʲnʲiʃɪm,0.7,
 BE,абодвух,abodvux,UK,двох,dʋɔx,0.7142857142857143,x
@@ -477,7 +477,7 @@ CS,pocestný,poʦɛstniː,BG,пътникът,pɤtnikɐt,0.7777777777777778,
 CS,úsilí,uːsɪliː,BG,усилията,osilijɐtɐ,0.7777777777777778,x
 CS,kdo,ɡdo,BG,който,kɔjto,0.8,x
 CS,foukat,foukat,BG,духа,duxɐ,0.8333333333333334,
-CS,hřát,ɦraːt,BG,грее,ɡrɛɛ,0.8333333333333334,x
+CS,hřát,ɦr̝aːt,BG,грее,ɡrɛɛ,0.8333333333333334,x
 CS,pak,pak,BG,тогава,toɡavɐ,0.8333333333333334,
 CS,shodil,sxoɟɪl,BG,свали,svɐli,0.8333333333333334,
 CS,tu,tu,BG,тогава,toɡavɐ,0.8333333333333334,
@@ -516,13 +516,13 @@ CS,je,jɛ,HR,je,je,0.5,x
 CS,je,jɛ,HR,je,je,0.5,x
 CS,nich,ɲɪx,HR,njih,ɲiːx,0.5,x
 CS,se,sɛ,HR,se,se,0.5,x
-CS,uznat,uznat,HR,priznati,priznati,0.5,x
+CS,slunce,slunʦɛ,HR,sunce,suːnʦe,0.5,x
+CS,slunce,slunʦɛ,HR,sunce,suːnʦe,0.5,x
+CS,slunce,slunʦɛ,HR,sunce,suːnʦe,0.5,
+CS,uznat,uznat,HR,priznati,priznati,0.5,
 CS,začalo,zaʧalo,HR,počelo,poʧelo,0.5,x
-CS,pocestný,poʦɛstniː,HR,putnik,puːtniːk,0.5555555555555556,
-CS,pocestný,poʦɛstniː,HR,putnik,puːtniːk,0.5555555555555556,
-CS,slunce,slunʦɛ,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
-CS,slunce,slunʦɛ,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
-CS,slunce,slunʦɛ,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
+CS,pocestný,poʦɛstniː,HR,putnik,puːtniːk,0.5555555555555556,x
+CS,pocestný,poʦɛstniː,HR,putnik,puːtniːk,0.5555555555555556,x
 CS,pocestného,poʦɛstnɛːɦo,HR,putnik,puːtniːk,0.6363636363636364,
 CS,kdo,ɡdo,HR,tko,tko,0.6666666666666666,x
 CS,pocestný,poʦɛstniː,HR,putnika,puːtnika,0.6666666666666666,
@@ -590,58 +590,58 @@ CS,severák,sɛvɛraːk,SK,severák,sɛʋɛraːk,0.125,x
 CS,severák,sɛvɛraːk,SK,severák,sɛʋɛraːk,0.125,x
 CS,dokáže,dokaːʒɛ,SK,dokáže,dɔkaːʒɛ,0.1428571428571428,x
 CS,kráčel,kraːʧɛl,SK,kráčal,kraːʧal,0.1428571428571428,x
-CS,musel,musɛl,SK,musel,musɛl,0.1666666666666667,x
+CS,musel,musɛl,SK,musel,mu̞sɛl,0.1666666666666667,x
 CS,začalo,zaʧalo,SK,začalo,zaʧalɔ,0.1666666666666667,x
-CS,pocestný,poʦɛstniː,SK,pocestný,pɔʦɛstniː,0.2,x
-CS,pocestný,poʦɛstniː,SK,pocestný,pɔʦɛstniː,0.2,x
-CS,čím,ʧiːm,SK,čim,ʧim,0.25,x
-CS,hádali,ɦaːdalɪ,SK,hádali,ɦaːdali,0.25,x
+CS,pocestný,poʦɛstniː,SK,pocestný,pɔʦɛstni̞ː,0.2,x
+CS,pocestný,poʦɛstniː,SK,pocestný,pɔʦɛstni̞ː,0.2,x
+CS,čím,ʧiːm,SK,čim,ʧi̞m,0.25,x
+CS,hádali,ɦaːdalɪ,SK,hádali,ɦaːdali̞,0.25,x
 CS,pláště,plaːʃcɛ,SK,plášťom,plaːʃcɔm,0.25,x
 CS,severák,sɛvɛraːk,SK,severák,sɛʋɛraːɡ,0.25,x
 CS,v tom,ftom,SK,v tom,ftɔm,0.25,x
 CS,pocestného,poʦɛstnɛːɦo,SK,pocestného,pɔʦɛstɲɛːɦɔ,0.2727272727272727,x
-CS,který,ktɛriː,SK,ktorý,ktɔriː,0.2857142857142857,x
-CS,silnější,sɪlɲɛjʃiː,SK,silnejší,silɲɛjʃiː,0.3333333333333333,x
-CS,uznat,uznat,SK,uznať,uznac,0.3333333333333333,x
-CS,síly,siːlɪ,SK,síl,siːl,0.4,x
-CS,tím,ciːm,SK,tým,tiːm,0.4,x
-CS,pocestný,poʦɛstniː,SK,pocestnému,pɔʦɛstnɛːmu,0.4166666666666667,x
-CS,foukal,foukal,SK,fúkal,fuːkal,0.4285714285714285,x
-CS,první,prvɲiː,SK,prvý,prʋiː,0.4285714285714285,x
-CS,silnější,sɪlɲɛjʃiː,SK,silnejšie,silɲɛjʃɪɛ,0.4545454545454545,x
-CS,silnějšího,sɪlɲɛjʃiːɦo,SK,silnejší,silɲɛjʃiː,0.4545454545454545,x
-CS,aby,abɪ,SK,aby,abi,0.5,x
+CS,silnější,sɪlɲɛjʃiː,SK,silnejší,si̞lɲɛjʃi̞ː,0.2727272727272727,x
+CS,který,ktɛriː,SK,ktorý,ktɔri̞ː,0.2857142857142857,x
+CS,uznat,uznat,SK,uznať,u̞znac,0.3333333333333333,x
+CS,síly,siːlɪ,SK,síl,si̞ːl,0.4,x
+CS,tím,ciːm,SK,tým,ti̞ːm,0.4,x
+CS,pocestný,poʦɛstniː,SK,pocestnému,pɔʦɛstnɛːmu̞,0.4166666666666667,x
+CS,foukal,foukal,SK,fúkal,fu̞ːkal,0.4285714285714285,x
+CS,silnější,sɪlɲɛjʃiː,SK,silnejšie,si̞lɲɛjʃɪ̯ɛ,0.4545454545454545,x
+CS,silnějšího,sɪlɲɛjʃiːɦo,SK,silnejší,si̞lɲɛjʃi̞ː,0.4545454545454545,x
+CS,aby,abɪ,SK,aby,abi̞,0.5,x
 CS,bylo,bɪlo,SK,bolo,bɔlɔ,0.5,x
+CS,první,prvɲiː,SK,prvý,prʋi̞ː,0.5,x
 CS,se,sɛ,SK,sa,sa,0.5,x
 CS,se,sɛ,SK,sa,sa,0.5,x
 CS,se,sɛ,SK,sa,sa,0.5,x
 CS,ze,zɛ,SK,zo,zɔ,0.5,x
-CS,vší,fʃiː,SK,všetkých,fʃɛtkiːx,0.5555555555555556,x
-CS,foukat,foukat,SK,fúkať,fuːkaɟ,0.5714285714285714,x
-CS,zahaloval,zaɦaloval,SK,zakrýval,zakriːʋal,0.6,
-CS,hřát,ɦraːt,SK,hriať,ɦrɪac,0.6666666666666666,x
-CS,si,sɪ,SK,si,si,0.6666666666666666,x
+CS,vší,fʃiː,SK,všetkých,fʃɛtki̞ːx,0.5555555555555556,x
+CS,foukat,foukat,SK,fúkať,fu̞ːkaɟ,0.5714285714285714,x
+CS,zahaloval,zaɦaloval,SK,zakrýval,zakri̞ːʋal,0.6,
+CS,hřát,ɦr̝aːt,SK,hriať,ɦrɪ̯ac,0.6666666666666666,x
+CS,si,sɪ,SK,si,si̞,0.6666666666666666,x
 CS,slunce,slunʦɛ,SK,slnko,slŋkɔ,0.6666666666666666,x
 CS,slunce,slunʦɛ,SK,slnko,slŋkɔ,0.6666666666666666,x
 CS,slunce,slunʦɛ,SK,slnko,slŋkɔ,0.6666666666666666,x
 CS,tu,tu,SK,tak,taɡ,0.6666666666666666,x
-CS,svlékl,svlɛːkl,SK,vyzliekol,ʋizlɪɛkɔl,0.7272727272727273,x
-CS,nich,ɲɪx,SK,nich,ɲiɣ,0.75,x
-CS,úsilí,uːsɪliː,SK,námahy,naːmaɦi,0.75,
-CS,svítit,sviːcɪt,SK,svietiť,sʋɪɛcic,0.7777777777777778,x
+CS,svlékl,svlɛːkl,SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,0.7272727272727273,x
+CS,nich,ɲɪx,SK,nich,ɲi̞ɣ,0.75,x
+CS,úsilí,uːsɪliː,SK,námahy,naːmaɦi̞,0.75,
+CS,svítit,sviːcɪt,SK,svietiť,sʋɪ̯ɛci̞c,0.7777777777777778,x
 CS,pak,pak,SK,potom,pɔtɔm,0.8,
-CS,víc,viːʦ,SK,viac,ʋɪaʦ,0.8,x
-CS,víc,viːʦ,SK,viac,ʋɪaʦ,0.8,x
-CS,zahalen,zaɦalɛn,SK,zakrytý,zakritiː,0.8,
-CS,za nějaký okamžik,zaɲɛjakiːokamʒɪk,SK,za malú chvíľku,zamaluːxʋiːʎku,0.8125,
-CS,shodil,sxoɟɪl,SK,vyzliekol,ʋizlɪɛkɔl,0.8181818181818182,
-CS,konečně,konɛʧɲɛ,SK,nakoniec,nakɔɲɪɛʦ,0.8888888888888888,x
-CS,spatřili,spatrɪlɪ,SK,zbadali,zbadali,0.8888888888888888,
+CS,víc,viːʦ,SK,viac,ʋɪ̯aʦ,0.8,x
+CS,víc,viːʦ,SK,viac,ʋɪ̯aʦ,0.8,x
+CS,zahalen,zaɦalɛn,SK,zakrytý,zakri̞ti̞ː,0.8,
+CS,za nějaký okamžik,zaɲɛjakiːokamʒɪk,SK,za malú chvíľku,zamalu̞ːxʋi̞ːʎku,0.8125,
+CS,shodil,sxoɟɪl,SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,0.8181818181818182,
+CS,konečně,konɛʧɲɛ,SK,nakoniec,nakɔɲɪ̯ɛʦ,0.8888888888888888,x
+CS,spatřili,spatr̝ɪlɪ,SK,zbadali,zbadali̞,0.8888888888888888,
 CS,horko,ɦorko,SK,teplo,cɛplɔ,1.0,
 CS,kdo,ɡdo,SK,kto,ktɔ,1.0,x
 CS,kdo,ɡdo,SK,kto,ktɔ,1.0,x
-CS,marného,marnɛːɦo,SK,zbytočnej,zbitɔʧnɛj,1.0,
-CS,ujednali,ujɛdnalɪ,SK,dohodli,dɔɦɔdli,1.0,
+CS,marného,marnɛːɦo,SK,zbytočnej,zbi̞tɔʧnɛj,1.0,
+CS,ujednali,ujɛdnalɪ,SK,dohodli,dɔɦɔdli̞,1.0,
 CS,je,jɛ,SL,je,jɛ,0.0,x
 CS,je,jɛ,SL,je,jɛ,0.0,x
 CS,se,sɛ,SL,se,sɛ,0.0,x
@@ -717,21 +717,21 @@ HR,vjetar,ʋjetar,BG,вятър,vjatɐr,0.5,x
 HR,vjetar,ʋjetar,BG,вятър,vjatɐr,0.5,x
 HR,koji,kojiː,BG,който,kɔjto,0.6,
 HR,primoran,primoːraːn,BG,принуден,prinudɛn,0.6,
+HR,prvi,prʋiː,BG,пръв,prɤf,0.6,x
 HR,putnik,puːtniːk,BG,пътникът,pɤtnikɐt,0.625,x
 HR,putnik,puːtniːk,BG,пътникът,pɤtnikɐt,0.625,x
-HR,kad,kad,BG,когато,koɡato,0.6666666666666666,x
-HR,prvi,prʋiː,BG,пръв,prɤf,0.6666666666666666,x
+HR,sunce,suːnʦe,BG,слънцето,slɤnʦɛto,0.625,x
+HR,sunce,suːnʦe,BG,слънцето,slɤnʦɛto,0.625,x
+HR,sunce,suːnʦe,BG,слънцето,slɤnʦɛto,0.625,
+HR,kad,kad,BG,когато,koɡato,0.6666666666666666,
 HR,tada,tadaː,BG,тогава,toɡavɐ,0.6666666666666666,x
 HR,odmah,odmaːx,BG,веднага,vɛdnaɡɐ,0.7142857142857143,
 HR,što,ʃto,BG,колкото,kɔlkoto,0.7142857142857143,
-HR,bio,bio,BG,беше,bɛʃɛ,0.75,x
-HR,biti,biti,BG,ще,ʃtɛ,0.75,
-HR,na kraju,nakraju,BG,най-после,najpɔslɛ,0.75,
-HR,natjera,natjeraː,BG,накара,nɐkarɐ,0.75,
+HR,bio,bio,BG,беше,bɛʃɛ,0.75,
+HR,biti,biti,BG,ще,ʃtɛ,0.75,x
+HR,na kraju,nakraju,BG,най-после,najpɔslɛ,0.75,x
+HR,natjera,natjeraː,BG,накара,nɐkarɐ,0.75,x
 HR,njega,ɲeɡa,BG,него,nɛɡo,0.75,x
-HR,sunce,suːn﻿ʦe,BG,слънцето,slɤnʦɛto,0.75,x
-HR,sunce,suːn﻿ʦe,BG,слънцето,slɤnʦɛto,0.75,x
-HR,sunce,suːn﻿ʦe,BG,слънцето,slɤnʦɛto,0.75,x
 HR,zapuhao,zapuːxao,BG,духа,duxɐ,0.75,
 HR,sjeverni,sjeʋeːrniː,BG,северният,sɛvɛrnijɐt,0.8,x
 HR,sjeverni,sjeʋeːrniː,BG,северният,sɛvɛrnijɐt,0.8,x
@@ -818,6 +818,7 @@ PL,dał spokój,dawspokuj,BG,прекъсна,prɛkɤsnɐ,1.0,
 PL,im,im,BG,колкото,kɔlkoto,1.0,
 PL,jest,jest,BG,е,ɛ,1.0,x
 PL,jest,jest,BG,е,ɛ,1.0,x
+PL,mocniej,moʦɲej,BG,по-силно,pɔsilno,1.0,
 PL,okrycie,okrɨʨe,BG,дрехата,drɛxɐtɐ,1.0,
 PL,płaszcz,pwaʃʧ,BG,дреха,drɛxɐ,1.0,
 PL,płaszcz,pwaʃʧ,BG,дрехата,drɛxɐtɐ,1.0,
@@ -830,7 +831,6 @@ PL,silniejszy,ɕilɲejʃɨ,BG,по-силен,pɔsilɛn,1.0,x
 PL,sprzeczali,spʃeʧali,BG,препираха,prɛpirɐxɐ,1.0,
 PL,uważany,uvaʒanɨ,BG,счита,sʧitɐ,1.0,
 PL,w chwilę później,fxfilepuʑɲej,BG,веднага,vɛdnaɡɐ,1.0,
-PL,mocniej,moʦɲej,BG,по-силно,pɔsilno,1.0,
 PL,właśnie,vwaɕɲe,BG,когато,koɡato,1.0,
 PL,wreszcie,vreʃʨe,BG,най-после,najpɔslɛ,1.0,
 PL,wtedy,ftedɨ,BG,тогава,toɡavɐ,1.0,x
@@ -885,6 +885,7 @@ PL,człowiek,ʧwovjek,CS,pocestného,poʦɛstnɛːɦo,1.0,
 PL,dał spokój,dawspokuj,CS,vzdal,vzdal,1.0,
 PL,i,i,CS,a,a,1.0,
 PL,który,kturɨ,CS,kdo,ɡdo,1.0,
+PL,mocniej,moʦɲej,CS,víc,viːʦ,1.0,
 PL,okrycie,okrɨʨe,CS,plášť,plaːʃc,1.0,
 PL,owinięty,oviɲentɨ,CS,zahalen,zaɦalɛn,1.0,
 PL,północny,puwnoʦnɨ,CS,severák,sɛvɛraːk,1.0,
@@ -892,12 +893,11 @@ PL,północny,puwnoʦnɨ,CS,severák,sɛvɛraːk,1.0,
 PL,północny,puwnoʦnɨ,CS,severák,sɛvɛraːk,1.0,
 PL,północny,puwnoʦnɨ,CS,severák,sɛvɛraːk,1.0,
 PL,przechodził,pʃexoʥiw,CS,kráčel,kraːʧɛl,1.0,
-PL,przygrzewać,pʃɨɡʒevaɕ,CS,hřát,ɦraːt,1.0,x
+PL,przygrzewać,pʃɨɡʒevaɕ,CS,hřát,ɦr̝aːt,1.0,x
 PL,się,ɕe,CS,se,sɛ,1.0,x
 PL,się,ɕe,CS,se,sɛ,1.0,x
 PL,w,f,CS,do,do,1.0,
 PL,więc,vjenʦ,CS,tedy,tɛdɪ,1.0,
-PL,mocniej,moʦɲej,CS,víc,viːʦ,1.0,
 PL,właśnie,vwaɕɲe,CS,v tom,ftom,1.0,
 PL,wreszcie,vreʃʨe,CS,konečně,konɛʧɲɛ,1.0,
 PL,wtedy,ftedɨ,CS,pak,pak,1.0,
@@ -914,15 +914,15 @@ PL,jest,jest,HR,je,je,0.5,x
 PL,przyznać,pʃɨznaʨ,HR,priznati,priznati,0.5,x
 PL,się,ɕe,HR,se,se,0.5,x
 PL,się,ɕe,HR,se,se,0.5,x
+PL,słońce,swoɲʦe,HR,sunce,suːnʦe,0.5,x
+PL,słońce,swoɲʦe,HR,sunce,suːnʦe,0.5,x
+PL,słońce,swoɲʦe,HR,sunce,suːnʦe,0.5,x
 PL,wiatr,vjatr,HR,vjetar,ʋjetar,0.5,x
 PL,wiatr,vjatr,HR,vjetar,ʋjetar,0.5,x
-PL,wiatr,vjatr,HR,vjetar,ʋjetar,0.5,x
+PL,wiatr,vjatr,HR,vjetar,ʋjetar,0.5,
 PL,wiatr,vjatr,HR,vjetar,ʋjetar,0.5,x
 PL,zaczęło,zaʧewo,HR,počelo,poʧelo,0.5,x
-PL,sprzeczali,spʃeʧali,HR,raspravljali,raspraʋʎali,0.5454545454545454,
-PL,słońce,swoɲʦe,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
-PL,słońce,swoɲʦe,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
-PL,słońce,swoɲʦe,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
+PL,sprzeczali,spʃeʧali,HR,raspravljali,raspraʋʎali,0.5454545454545454,x
 PL,kto,kto,HR,tko,tko,0.6666666666666666,x
 PL,otulał,otulaw,HR,umotavao,umotaːʋao,0.6666666666666666,
 PL,silniej,ɕilɲej,HR,više,ʋiʃeː,0.6666666666666666,
@@ -932,9 +932,9 @@ PL,będzie,beɲʥe,HR,će,ʨe,0.8,
 PL,który,kturɨ,HR,koji,kojiː,0.8,
 PL,wtedy,ftedɨ,HR,tada,tadaː,0.8,x
 PL,ciepły,ʨepwɨ,HR,topli,topliː,0.8333333333333334,x
+PL,mocniej,moʦɲej,HR,više,ʋiʃeː,0.8333333333333334,
 PL,pierwszy,pjerʃɨ,HR,prvi,prʋiː,0.8333333333333334,x
 PL,przechodzącego,pʃexoʣonʦeɡo,HR,putnika,puːtnika,0.8333333333333334,
-PL,mocniej,moʦɲej,HR,više,ʋiʃeː,0.8333333333333334,
 PL,właśnie,vwaɕɲe,HR,kad,kad,0.8333333333333334,
 PL,człowiek,ʧwovjek,HR,putnik,puːtniːk,0.875,
 PL,podróżny,podruʒnɨ,HR,putnik,puːtniːk,0.875,
@@ -977,47 +977,48 @@ PL,ale,ale,SK,ale,alɛ,0.3333333333333333,x
 PL,kto,kto,SK,kto,ktɔ,0.3333333333333333,x
 PL,ten,ten,SK,ten,tɛn,0.3333333333333333,x
 PL,zaczął,zaʧow,SK,začal,zaʧal,0.4,x
-PL,aby,abɨ,SK,aby,abi,0.5,x
-PL,im,im,SK,čim,ʧim,0.5,
-PL,nich,ɲix,SK,nich,ɲiɣ,0.5,x
+PL,aby,abɨ,SK,aby,abi̞,0.5,x
+PL,im,im,SK,čim,ʧi̞m,0.5,
+PL,nich,ɲix,SK,nich,ɲi̞ɣ,0.5,x
 PL,płaszcz,pwaʃʧ,SK,plášť,plaːʃc,0.5,x
 PL,zaczęło,zaʧewo,SK,začalo,zaʧalɔ,0.5,x
 PL,że,ʒe,SK,že,ʒɛ,0.5,x
 PL,że,ʒe,SK,že,ʒɛ,0.5,x
-PL,silniejsze,ɕilɲejʃe,SK,silnejšie,silɲɛjʃɪɛ,0.5454545454545454,x
-PL,silniejszego,ɕilɲejʃeɡo,SK,silnejší,silɲɛjʃiː,0.5454545454545454,x
-PL,przyznać,pʃɨznaʨ,SK,uznať,uznac,0.5714285714285714,x
-PL,silniejszy,ɕilɲejʃɨ,SK,silnejší,silɲɛjʃiː,0.5833333333333334,x
+PL,silniejsze,ɕilɲejʃe,SK,silnejšie,si̞lɲɛjʃɪ̯ɛ,0.5454545454545454,x
+PL,silniejszego,ɕilɲejʃeɡo,SK,silnejší,si̞lɲɛjʃi̞ː,0.5454545454545454,x
+PL,silniejszy,ɕilɲejʃɨ,SK,silnejší,si̞lɲɛjʃi̞ː,0.5454545454545454,x
+PL,przyznać,pʃɨznaʨ,SK,uznať,u̞znac,0.5714285714285714,x
 PL,który,kturɨ,SK,kto,ktɔ,0.6,
-PL,tym,tɨm,SK,tým,tiːm,0.6,x
+PL,tym,tɨm,SK,tým,ti̞ːm,0.6,x
 PL,płaszcz,pwaʃʧ,SK,plášťom,plaːʃcɔm,0.625,x
 PL,płaszcz,pwaʃʧ,SK,plášťom,plaːʃcɔm,0.625,x
-PL,musiał,muɕaw,SK,musel,musɛl,0.6666666666666666,x
+PL,musiał,muɕaw,SK,musel,mu̞sɛl,0.6666666666666666,x
 PL,jest,jest,SK,je,jɛ,0.75,x
 PL,jest,jest,SK,je,jɛ,0.75,x
-PL,sprzeczali,spʃeʧali,SK,hádali,ɦaːdali,0.75,
-PL,umówili,umuvili,SK,dohodli,dɔɦɔdli,0.75,
-PL,podróżny,podruʒnɨ,SK,pocestný,pɔʦɛstniː,0.8,
-PL,siły,ɕiwɨ,SK,síl,siːl,0.8,x
-PL,pewnego razu,pevneɡorazu,SK,raz,﻿ras,0.8181818181818182,~
-PL,podróżny,podruʒnɨ,SK,pocestnému,pɔʦɛstnɛːmu,0.8333333333333334,
-PL,przechodzącego,pʃexoʣonʦeɡo,SK,pocestný,pɔʦɛstniː,0.8333333333333334,
+PL,sprzeczali,spʃeʧali,SK,hádali,ɦaːdali̞,0.75,
+PL,umówili,umuvili,SK,dohodli,dɔɦɔdli̞,0.75,
+PL,podróżny,podruʒnɨ,SK,pocestný,pɔʦɛstni̞ː,0.8,
+PL,siły,ɕiwɨ,SK,síl,si̞ːl,0.8,x
+PL,pewnego razu,pevneɡorazu,SK,raz,ras,0.8181818181818182,~
+PL,pierwszy,pjerʃɨ,SK,prvý,prʋi̞ː,0.8333333333333334,
+PL,podróżny,podruʒnɨ,SK,pocestnému,pɔʦɛstnɛːmu̞,0.8333333333333334,
+PL,przechodzącego,pʃexoʣonʦeɡo,SK,pocestný,pɔʦɛstni̞ː,0.8333333333333334,x
 PL,słońce,swoɲʦe,SK,slnko,slŋkɔ,0.8333333333333334,x
 PL,słońce,swoɲʦe,SK,slnko,slŋkɔ,0.8333333333333334,x
 PL,słońce,swoɲʦe,SK,slnko,slŋkɔ,0.8333333333333334,x
-PL,pierwszy,pjerʃɨ,SK,prvý,prʋiː,0.8571428571428571,x
-PL,przygrzewać,pʃɨɡʒevaɕ,SK,hriať,ɦrɪac,0.8888888888888888,x
-PL,otulał,otulaw,SK,zakrýval,zakriːʋal,0.9,
-PL,owinięty,oviɲentɨ,SK,zakrytý,zakritiː,0.9,
-PL,zdjął,zdjow,SK,vyzliekol,ʋizlɪɛkɔl,0.9090909090909091,
-PL,zdjął,zdjow,SK,vyzliekol,ʋizlɪɛkɔl,0.9090909090909091,
-PL,w chwilę później,fxfilepuʑɲej,SK,za malú chvíľku,zamaluːxʋiːʎku,0.9375,~
-PL,całej,ʦawej,SK,všetkých,fʃɛtkiːx,1.0,
+PL,przygrzewać,pʃɨɡʒevaɕ,SK,hriať,ɦrɪ̯ac,0.8888888888888888,x
+PL,otulał,otulaw,SK,zakrýval,zakri̞ːʋal,0.9,
+PL,owinięty,oviɲentɨ,SK,zakrytý,zakri̞ti̞ː,0.9,
+PL,zdjął,zdjow,SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,0.9090909090909091,
+PL,zdjął,zdjow,SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,0.9090909090909091,
+PL,w chwilę później,fxfilepuʑɲej,SK,za malú chvíľku,zamalu̞ːxʋi̞ːʎku,0.9375,~
+PL,całej,ʦawej,SK,všetkých,fʃɛtki̞ːx,1.0,
 PL,człowiek,ʧwovjek,SK,pocestného,pɔʦɛstɲɛːɦɔ,1.0,
-PL,dąć,doɲʨ,SK,fúkať,fuːkaɟ,1.0,
-PL,dął,dow,SK,fúkal,fuːkal,1.0,
+PL,dąć,doɲʨ,SK,fúkať,fu̞ːkaɟ,1.0,
+PL,dął,dow,SK,fúkal,fu̞ːkal,1.0,
 PL,dał spokój,dawspokuj,SK,vzdal,vzdal,1.0,
 PL,i,i,SK,a,a,1.0,
+PL,mocniej,moʦɲej,SK,viac,ʋɪ̯aʦ,1.0,
 PL,niego,ɲeɡo,SK,on,ɔn,1.0,~
 PL,od,od,SK,ako,akɔ,1.0,
 PL,okrycie,okrɨʨe,SK,plášť,plaːʃc,1.0,
@@ -1029,10 +1030,9 @@ PL,przechodził,pʃexoʥiw,SK,kráčal,kraːʧal,1.0,
 PL,się,ɕe,SK,sa,sa,1.0,x
 PL,się,ɕe,SK,sa,sa,1.0,x
 PL,się,ɕe,SK,sa,sa,1.0,x
-PL,silniej,ɕilɲej,SK,viac,ʋɪaʦ,1.0,
-PL,mocniej,moʦɲej,SK,viac,ʋɪaʦ,1.0,
+PL,silniej,ɕilɲej,SK,viac,ʋɪ̯aʦ,1.0,
 PL,właśnie,vwaɕɲe,SK,v tom,ftɔm,1.0,
-PL,wreszcie,vreʃʨe,SK,nakoniec,nakɔɲɪɛʦ,1.0,
+PL,wreszcie,vreʃʨe,SK,nakoniec,nakɔɲɪ̯ɛʦ,1.0,
 PL,wtedy,ftedɨ,SK,potom,pɔtɔm,1.0,
 PL,z,s,SK,zo,zɔ,1.0,x
 PL,płaszcz,pwaʃʧ,SL,plašč,plaːʃʧ,0.3333333333333333,x
@@ -1062,6 +1062,7 @@ PL,który,kturɨ,SL,ki mu,kimu,0.8,
 PL,w ten sposób,ftensposup,SL,tako,takoː,0.8,
 PL,umówili,umuvili,SL,dogovorila,dɔɡɔʋɔɾiːla,0.8181818181818182,
 PL,ciepły,ʨepwɨ,SL,topel,tɔːpəu,0.8333333333333334,x
+PL,mocniej,moʦɲej,SL,bolj,boːl,0.8333333333333334,
 PL,nich,ɲix,SL,njiju,njiːju,0.8333333333333334,x
 PL,niego,ɲeɡo,SL,njega,njɛːɡa,0.8333333333333334,x
 PL,ten,ten,SL,tisti,tiːsti,0.8333333333333334,x
@@ -1069,7 +1070,6 @@ PL,wiatr,vjatr,SL,veter,ʋeːtəɾ,0.8333333333333334,x
 PL,wiatr,vjatr,SL,veter,ʋeːtəɾ,0.8333333333333334,x
 PL,wiatr,vjatr,SL,veter,ʋeːtəɾ,0.8333333333333334,x
 PL,wiatr,vjatr,SL,veter,ʋeːtəɾ,0.8333333333333334,x
-PL,mocniej,moʦɲej,SL,bolj,boːl,0.8333333333333334,
 PL,otulał,otulaw,SL,ovijal,ɔʋiːjau,0.8571428571428571,
 PL,uważany,uvaʒanɨ,SL,veljal,vɛljau,0.8571428571428571,
 PL,owinięty,oviɲentɨ,SL,zavit,zaʋiːt,0.875,
@@ -1289,7 +1289,7 @@ RU,путника,putʲnʲika,CS,pocestný,poʦɛstniː,0.8888888888888888,
 RU,считаться,ʃʲːitaʦa,CS,považovat,povaʒovat,0.8888888888888888,
 RU,сильнее,sʲilʲnʲeji,CS,víc,viːʦ,0.9,
 RU,сильнее,sʲilʲnʲeji,CS,víc,viːʦ,0.9,
-RU,заметили,zamʲetʲilʲi,CS,spatřili,spatrɪlɪ,0.9090909090909091,
+RU,заметили,zamʲetʲilʲi,CS,spatřili,spatr̝ɪlɪ,0.9090909090909091,
 RU,принялся,prʲinʲilsʲa,CS,začal,zaʧal,0.9090909090909091,
 RU,будет,budʲit,CS,má,maː,1.0,
 RU,в,f,CS,do,do,1.0,
@@ -1311,13 +1311,13 @@ RU,свой,svoj,HR,svoj,sʋoːj,0.4,x
 RU,тогда,taɡda,HR,tada,tadaː,0.4,x
 RU,путник,putʲnʲik,HR,putnik,puːtniːk,0.5,x
 RU,путник,putʲnʲik,HR,putnik,puːtniːk,0.5,x
+RU,солнце,sɔnʦɨ,HR,sunce,suːnʦe,0.5,x
+RU,солнце,sonʦɨ,HR,sunce,suːnʦe,0.5,x
 RU,путника,putʲnʲika,HR,putnik,puːtniːk,0.5555555555555556,x
 RU,ветер,vʲetʲir,HR,vjetar,ʋjetar,0.5714285714285714,x
 RU,ветер,vʲetʲir,HR,vjetar,ʋjetar,0.5714285714285714,x
 RU,ветер,vʲetʲir,HR,vjetar,ʋjetar,0.5714285714285714,x
 RU,ветер,vʲetʲir,HR,vjetar,ʋjetar,0.5714285714285714,x
-RU,солнце,sɔnʦɨ,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
-RU,солнце,sonʦɨ,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
 RU,северный,sʲevʲirnɨj,HR,sjeverni,sjeʋeːrniː,0.6,x
 RU,северный,sʲevʲirnɨj,HR,sjeverni,sjeʋeːrniː,0.6,x
 RU,северный,sʲevʲirnɨj,HR,sjeverni,sjeʋeːrniː,0.6,x
@@ -1328,7 +1328,7 @@ RU,был,bɨl,HR,bio,bio,0.6666666666666666,x
 RU,засияло,zasʲijala,HR,sjati,sjati,0.6666666666666666,x
 RU,кто,kto,HR,tko,tko,0.6666666666666666,x
 RU,них,nʲix,HR,njih,ɲiːx,0.75,x
-RU,солнышко,solnɨʃka,HR,sunce,suːn﻿ʦe,0.75,x
+RU,солнышко,solnɨʃka,HR,sunce,suːnʦe,0.75,x
 RU,тем,tʲem,HR,sve,sʋe,0.75,
 RU,самым сильным,samɨmsʲilʲnɨm,HR,jačim,jaʧiːm,0.7692307692307693,
 RU,тут,tut,HR,u tom trenutku,utomtrenuːtku,0.7692307692307693,
@@ -1442,58 +1442,58 @@ RU,плащ,plaʃʲː,SK,plášť,plaːʃc,0.5,x
 RU,плащ,plaʃʲː,SK,plášť,plaːʃc,0.5,x
 RU,плащ,plaʃʲː,SK,plášťom,plaːʃcɔm,0.5,x
 RU,плащ,plaʃʲː,SK,plášťom,plaːʃcɔm,0.5,x
-RU,чем,ʧʲem,SK,čim,ʧim,0.5,x
-RU,сил,sʲil,SK,síl,siːl,0.6,x
-RU,тем,tʲem,SK,tým,tiːm,0.6,x
+RU,чем,ʧʲem,SK,čim,ʧi̞m,0.5,x
+RU,сил,sʲil,SK,síl,si̞ːl,0.6,x
+RU,тем,tʲem,SK,tým,ti̞ːm,0.6,x
 RU,солнышко,solnɨʃka,SK,slnko,slŋkɔ,0.625,x
 RU,из,izʲ,SK,z,z,0.6666666666666666,x
 RU,изо,iza,SK,zo,zɔ,0.6666666666666666,x
-RU,признать,prʲiznatʲ,SK,uznať,uznac,0.6666666666666666,x
+RU,признать,prʲiznatʲ,SK,uznať,u̞znac,0.6666666666666666,x
 RU,тот,tot,SK,ten,tɛn,0.6666666666666666,x
 RU,тут,tut,SK,tak,taɡ,0.6666666666666666,
-RU,закутанного,zakutanava,SK,zakrytý,zakritiː,0.7,
-RU,дул,dul,SK,fúkal,fuːkal,0.7142857142857143,
-RU,который,katorɨj,SK,ktorý,ktɔriː,0.7142857142857143,x
-RU,затеи,zatʲeji,SK,námahy,naːmaɦi,0.75,
+RU,закутанного,zakutanava,SK,zakrytý,zakri̞ti̞ː,0.7,
+RU,дул,dul,SK,fúkal,fu̞ːkal,0.7142857142857143,
+RU,который,katorɨj,SK,ktorý,ktɔri̞ː,0.7142857142857143,x
+RU,затеи,zatʲeji,SK,námahy,naːmaɦi̞,0.75,
 RU,кому,kamu,SK,kto,ktɔ,0.75,~
-RU,свой,svoj,SK,si,si,0.75,
-RU,всех,fsʲex,SK,všetkých,fʃɛtkiːx,0.7777777777777778,x
-RU,путник,putʲnʲik,SK,pocestný,pɔʦɛstniː,0.8,
-RU,путника,putʲnʲika,SK,pocestný,pɔʦɛstniː,0.8,
+RU,свой,svoj,SK,si,si̞,0.75,
+RU,всех,fsʲex,SK,všetkých,fʃɛtki̞ːx,0.7777777777777778,x
+RU,путник,putʲnʲik,SK,pocestný,pɔʦɛstni̞ː,0.8,
+RU,путника,putʲnʲika,SK,pocestný,pɔʦɛstni̞ː,0.8,
 RU,северный,sʲevʲirnɨj,SK,severák,sɛʋɛraːk,0.8,x
 RU,северный,sʲevʲirnɨj,SK,severák,sɛʋɛraːk,0.8,x
 RU,северный,sʲevʲirnɨj,SK,severák,sɛʋɛraːɡ,0.8,x
 RU,северный,sʲevʲirnɨj,SK,severák,sɛʋɛraːk,0.8,x
-RU,заметили,zamʲetʲilʲi,SK,zbadali,zbadali,0.8181818181818182,
-RU,поспорили,pasporʲilʲi,SK,hádali,ɦaːdali,0.8181818181818182,
-RU,сильнее,sʲilʲnʲeji,SK,silnejšie,silɲɛjʃɪɛ,0.8181818181818182,x
-RU,в конце концов,fkanʦekanʦof,SK,nakoniec,nakɔɲɪɛʦ,0.8333333333333334,x
-RU,путник,putʲnʲik,SK,pocestnému,pɔʦɛstnɛːmu,0.8333333333333334,
-RU,сильнее,sʲilʲnʲeji,SK,silnejší,silɲɛjʃiː,0.8333333333333334,
-RU,солнце,sɔnʦɨ,SK,slnko,slŋkɔ,0.8333333333333334,
-RU,солнце,sonʦɨ,SK,slnko,slŋkɔ,0.8333333333333334,
-RU,дуть,dutʲ,SK,fúkať,fuːkaɟ,0.8571428571428571,
-RU,однажды,adnaʒdɨ,SK,raz,﻿ras,0.8571428571428571,
-RU,раньше,ranʲʃɨ,SK,prvý,prʋiː,0.8571428571428571,
+RU,солнце,sɔnʦɨ,SK,slnko,slŋkɔ,0.8,
+RU,солнце,sonʦɨ,SK,slnko,slŋkɔ,0.8,
+RU,заметили,zamʲetʲilʲi,SK,zbadali,zbadali̞,0.8181818181818182,x
+RU,поспорили,pasporʲilʲi,SK,hádali,ɦaːdali̞,0.8181818181818182,x
+RU,сильнее,sʲilʲnʲeji,SK,silnejší,si̞lɲɛjʃi̞ː,0.8181818181818182,
+RU,сильнее,sʲilʲnʲeji,SK,silnejšie,si̞lɲɛjʃɪ̯ɛ,0.8181818181818182,
+RU,в конце концов,fkanʦekanʦof,SK,nakoniec,nakɔɲɪ̯ɛʦ,0.8333333333333334,
+RU,путник,putʲnʲik,SK,pocestnému,pɔʦɛstnɛːmu̞,0.8333333333333334,
+RU,дуть,dutʲ,SK,fúkať,fu̞ːkaɟ,0.8571428571428571,
+RU,однажды,adnaʒdɨ,SK,raz,ras,0.8571428571428571,
 RU,удастся,udasʦa,SK,dokáže,dɔkaːʒɛ,0.8571428571428571,
 RU,шёл,ʃol,SK,kráčal,kraːʧal,0.8571428571428571,
 RU,отказаться,atkazaʦa,SK,vzdal,vzdal,0.875,
-RU,решили,rʲiʃɨlʲi,SK,dohodli,dɔɦɔdli,0.875,
+RU,решили,rʲiʃɨlʲi,SK,dohodli,dɔɦɔdli̞,0.875,
 RU,как раз в это время,kakrasvetavrʲemʲa,SK,v tom,ftɔm,0.8823529411764706,
-RU,кутался,kutalsʲa,SK,zakrýval,zakriːʋal,0.9,
+RU,кутался,kutalsʲa,SK,zakrýval,zakri̞ːʋal,0.9,
 RU,принялся,prʲinʲilsʲa,SK,začal,zaʧal,0.9090909090909091,
 RU,путника,putʲnʲika,SK,pocestného,pɔʦɛstɲɛːɦɔ,0.9090909090909091,
-RU,снял,sʲnʲal,SK,vyzliekol,ʋizlɪɛkɔl,0.9090909090909091,
-RU,самым сильным,samɨmsʲilʲnɨm,SK,silnejší,silɲɛjʃiː,0.9230769230769231,x
-RU,вскоре,fskorʲi,SK,za malú chvíľku,zamaluːxʋiːʎku,0.9375,
-RU,его,jivo,SK,on,ɔn,1.0,~
-RU,засияло,zasʲijala,SK,svietiť,sʋɪɛcic,1.0,
+RU,снял,sʲnʲal,SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,0.9090909090909091,
+RU,самым сильным,samɨmsʲilʲnɨm,SK,silnejší,si̞lɲɛjʃi̞ː,0.9230769230769231,
+RU,вскоре,fskorʲi,SK,za malú chvíľku,zamalu̞ːxʋi̞ːʎku,0.9375,x
+RU,его,jivo,SK,on,ɔn,1.0,
+RU,засияло,zasʲijala,SK,svietiť,sʋɪ̯ɛci̞c,1.0,~
 RU,и,i,SK,a,a,1.0,
-RU,них,nʲix,SK,nich,ɲiɣ,1.0,x
-RU,но,no,SK,ale,alɛ,1.0,
-RU,сильнее,sʲilʲnʲeji,SK,viac,ʋɪaʦ,1.0,
-RU,сильнее,sʲilʲnʲeji,SK,viac,ʋɪaʦ,1.0,
-RU,снять,sʲnʲatʲ,SK,vyzliekol,ʋizlɪɛkɔl,1.0,
+RU,них,nʲix,SK,nich,ɲi̞ɣ,1.0,
+RU,но,no,SK,ale,alɛ,1.0,x
+RU,раньше,ranʲʃɨ,SK,prvý,prʋi̞ː,1.0,
+RU,сильнее,sʲilʲnʲeji,SK,viac,ʋɪ̯aʦ,1.0,
+RU,сильнее,sʲilʲnʲeji,SK,viac,ʋɪ̯aʦ,1.0,
+RU,снять,sʲnʲatʲ,SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,1.0,
 RU,тогда,taɡda,SK,potom,pɔtɔm,1.0,
 RU,что,ʃto,SK,že,ʒɛ,1.0,
 RU,что,ʃto,SK,že,ʒɛ,1.0,
@@ -1591,21 +1591,21 @@ RU,плащ,plaʃʲː,UK,пальто,palʲtɔ,0.6666666666666666,
 RU,путника,putʲnʲika,UK,мандрівника,mandrʲiʋnɪka,0.6666666666666666,
 RU,путника,putʲnʲika,UK,мандрівника,mandrʲiʋnɪka,0.6666666666666666,
 RU,северный,sʲevʲirnɨj,UK,північний,pʲiʋnʲiʧnɪi̯,0.6666666666666666,
-RU,что,ʃto,UK,що,ʃʧɔ,0.6666666666666666,x
-RU,что,ʃto,UK,що,ʃʧɔ,0.6666666666666666,x
+RU,северный,sʲevʲirnɨj,UK,північний,pʲiʋnʲiʧnɪi̯,0.6666666666666666,x
+RU,северный,sʲevʲirnɨj,UK,північний,pʲiʋnʲiʧnɪi̯,0.6666666666666666,x
+RU,северный,sʲevʲirnɨj,UK,північний,pʲiʋnʲiʧnɪi̯,0.6666666666666666,x
+RU,что,ʃto,UK,що,ʃʧɔ,0.6666666666666666,
+RU,что,ʃto,UK,що,ʃʧɔ,0.6666666666666666,
 RU,самым сильным,samɨmsʲilʲnɨm,UK,сильнішим,sɪlʲnʲiʃɪm,0.6923076923076923,x
-RU,сильнее,sʲilʲnʲeji,UK,щільніше,ʃʧɪlʲniʃɛ,0.7,
-RU,как раз в это время,kakrasvetavrʲemʲa,UK,аж раптом,aʒraptɔm,0.7058823529411765,
+RU,сильнее,sʲilʲnʲeji,UK,щільніше,ʃʧɪlʲniʃɛ,0.7,x
+RU,как раз в это время,kakrasvetavrʲemʲa,UK,аж раптом,aʒraptɔm,0.7058823529411765,x
 RU,ветер,vʲetʲir,UK,вітер,ʋitɛr,0.7142857142857143,x
-RU,ветер,vʲetʲir,UK,вітер,ʋitɛr,0.7142857142857143,x
-RU,ветер,vʲetʲir,UK,вітер,ʋitɛr,0.7142857142857143,x
-RU,ветер,vʲetʲir,UK,вітер,ʋitɛr,0.7142857142857143,x
+RU,ветер,vʲetʲir,UK,вітер,ʋitɛr,0.7142857142857143,
+RU,ветер,vʲetʲir,UK,вітер,ʋitɛr,0.7142857142857143,
+RU,ветер,vʲetʲir,UK,вітер,ʋitɛr,0.7142857142857143,
 RU,путник,putʲnʲik,UK,мандрівник,mandrʲiʋnɪk,0.7272727272727273,
 RU,путник,putʲnʲik,UK,мандрівник,mandrʲiʋnɪk,0.7272727272727273,
 RU,решили,rʲiʃɨlʲi,UK,дійшли спільної думки,dʲii̯ʃlɪspilʲnɔjidumkɪ,0.7272727272727273,
-RU,северный,sʲevʲirnɨj,UK,північний,pʲiʋnʲiʧnɪi̯,0.7272727272727273,
-RU,северный,sʲevʲirnɨj,UK,північний,pʲiʋnʲiʧnɪi̯,0.7272727272727273,
-RU,северный,sʲevʲirnɨj,UK,північний,pʲiʋnʲiʧnɪi̯,0.7272727272727273,
 RU,сил,sʲil,UK,сили,sɪlɪ,0.75,x
 RU,солнышко,solnɨʃka,UK,сонце,sɔnʦɛ,0.75,x
 RU,тот,tot,UK,той,tɔi̯,0.75,x
@@ -1628,54 +1628,54 @@ RU,сильнее,sʲilʲnʲeji,UK,дужче,duʒʧɛ,1.0,
 RU,считаться,ʃʲːitaʦa,UK,визнаний,ʋɪznanɪi̯,1.0,
 RU,таким образом,takʲimobrazam,UK,отож,ɔtɔʒ,1.0,
 RU,шёл,ʃol,UK,проходив,prɔxɔdɪʋ,1.0,
-SK,si,si,BG,си,si,0.3333333333333333,x
-SK,si,si,BG,си,si,0.3333333333333333,x
+SK,si,si̞,BG,си,si,0.3333333333333333,x
+SK,si,si̞,BG,си,si,0.3333333333333333,x
 SK,je,jɛ,BG,е,ɛ,0.5,x
 SK,je,jɛ,BG,е,ɛ,0.5,x
 SK,sa,sa,BG,се,sɛ,0.5,x
 SK,že,ʒɛ,BG,че,ʧɛ,0.5,
 SK,že,ʒɛ,BG,че,ʧɛ,0.5,
-SK,uznať,uznac,BG,признае,priznaɛ,0.5714285714285714,x
+SK,uznať,u̞znac,BG,признае,priznaɛ,0.5714285714285714,x
 SK,kto,ktɔ,BG,който,kɔjto,0.6,x
-SK,pocestný,pɔʦɛstniː,BG,пътника,pɤtnikɐ,0.6,
+SK,pocestný,pɔʦɛstni̞ː,BG,пътника,pɤtnikɐ,0.6,
 SK,severák,sɛʋɛraːk,BG,северният,sɛvɛrnijɐt,0.6,x
 SK,severák,sɛʋɛraːk,BG,северният,sɛvɛrnijɐt,0.6,x
 SK,severák,sɛʋɛraːɡ,BG,северният,sɛvɛrnijɐt,0.6,x
 SK,severák,sɛʋɛraːk,BG,северният,sɛvɛrnijɐt,0.6,x
-SK,síl,siːl,BG,сила,silɐ,0.6,x
+SK,síl,si̞ːl,BG,сила,silɐ,0.6,x
 SK,kto,ktɔ,BG,кой,kɔj,0.6666666666666666,x
-SK,nakoniec,nakɔɲɪɛʦ,BG,най-после,najpɔslɛ,0.6666666666666666,
+SK,nakoniec,nakɔɲɪ̯ɛʦ,BG,най-после,najpɔslɛ,0.6666666666666666,
+SK,prvý,prʋi̞ː,BG,пръв,prɤf,0.6666666666666666,
 SK,tak,taɡ,BG,тогава,toɡavɐ,0.6666666666666666,
-SK,pocestný,pɔʦɛstniː,BG,пътникът,pɤtnikɐt,0.7,
-SK,zakrytý,zakritiː,BG,завит,zɐvit,0.7,
-SK,prvý,prʋiː,BG,пръв,prɤf,0.7142857142857143,x
+SK,pocestný,pɔʦɛstni̞ː,BG,пътникът,pɤtnikɐt,0.7,
+SK,zakrytý,zakri̞ti̞ː,BG,завит,zɐvit,0.7,x
 SK,začal,zaʧal,BG,започна,zɐpɔʧnɐ,0.7142857142857143,
-SK,pocestnému,pɔʦɛstnɛːmu,BG,пътникът,pɤtnikɐt,0.75,
+SK,pocestnému,pɔʦɛstnɛːmu̞,BG,пътникът,pɤtnikɐt,0.75,
 SK,slnko,slŋkɔ,BG,слънцето,slɤnʦɛto,0.75,x
 SK,slnko,slŋkɔ,BG,слънцето,slɤnʦɛto,0.75,x
 SK,slnko,slŋkɔ,BG,слънцето,slɤnʦɛto,0.75,x
 SK,ten,tɛn,BG,този,tɔzi,0.75,x
-SK,všetkých,fʃɛtkiːx,BG,всичка,fsiʧkɐ,0.7777777777777778,x
+SK,všetkých,fʃɛtki̞ːx,BG,всичка,fsiʧkɐ,0.7777777777777778,x
 SK,pocestného,pɔʦɛstɲɛːɦɔ,BG,пътник,pɤtnik,0.8181818181818182,
-SK,silnejší,silɲɛjʃiː,BG,по-силен,pɔsilɛn,0.8181818181818182,x
-SK,hriať,ɦrɪac,BG,грее,ɡrɛɛ,0.8333333333333334,x
-SK,silnejší,silɲɛjʃiː,BG,по-силен,pɔsilɛn,0.8333333333333334,x
-SK,fúkal,fuːkal,BG,духаше,duxɐʃɛ,0.8571428571428571,
-SK,fúkať,fuːkaɟ,BG,духа,duxɐ,0.8571428571428571,
-SK,tým,tiːm,BG,толкова,tɔlkovɐ,0.8571428571428571,
+SK,silnejší,si̞lɲɛjʃi̞ː,BG,по-силен,pɔsilɛn,0.8181818181818182,x
+SK,silnejší,si̞lɲɛjʃi̞ː,BG,по-силен,pɔsilɛn,0.8181818181818182,x
+SK,hriať,ɦrɪ̯ac,BG,грее,ɡrɛɛ,0.8333333333333334,x
+SK,fúkal,fu̞ːkal,BG,духаше,duxɐʃɛ,0.8571428571428571,
+SK,fúkať,fu̞ːkaɟ,BG,духа,duxɐ,0.8571428571428571,
+SK,tým,ti̞ːm,BG,толкова,tɔlkovɐ,0.8571428571428571,
 SK,začalo,zaʧalɔ,BG,започна,zɐpɔʧnɐ,0.8571428571428571,
-SK,zakrýval,zakriːʋal,BG,увиваше,ovivɐʃɛ,0.9,
-SK,silnejšie,silɲɛjʃɪɛ,BG,по-силно,pɔsilno,0.9090909090909091,x
-SK,vyzliekol,ʋizlɪɛkɔl,BG,свали,svɐli,0.9090909090909091,
-SK,vyzliekol,ʋizlɪɛkɔl,BG,свали,svɐli,0.9090909090909091,
+SK,zakrýval,zakri̞ːʋal,BG,увиваше,ovivɐʃɛ,0.9,
+SK,silnejšie,si̞lɲɛjʃɪ̯ɛ,BG,по-силно,pɔsilno,0.9090909090909091,x
+SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,BG,свали,svɐli,0.9090909090909091,
+SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,BG,свали,svɐli,0.9090909090909091,
 SK,a,a,BG,и,i,1.0,
 SK,ako,akɔ,BG,от,ot,1.0,
 SK,ale,alɛ,BG,но,no,1.0,
-SK,čim,ʧim,BG,колкото,kɔlkoto,1.0,
-SK,dohodli,dɔɦɔdli,BG,решиха,rɛʃixɐ,1.0,
-SK,hádali,ɦaːdali,BG,препираха,prɛpirɐxɐ,1.0,
+SK,čim,ʧi̞m,BG,колкото,kɔlkoto,1.0,
+SK,dohodli,dɔɦɔdli̞,BG,решиха,rɛʃixɐ,1.0,
+SK,hádali,ɦaːdali̞,BG,препираха,prɛpirɐxɐ,1.0,
 SK,kráčal,kraːʧal,BG,мина,minɐ,1.0,
-SK,námahy,naːmaɦi,BG,усилията,osilijɐtɐ,1.0,
+SK,námahy,naːmaɦi̞,BG,усилията,osilijɐtɐ,1.0,
 SK,on,ɔn,BG,него,nɛɡo,1.0,~
 SK,plášť,plaːʃc,BG,дрехата,drɛxɐtɐ,1.0,
 SK,plášť,plaːʃc,BG,дрехата,drɛxɐtɐ,1.0,
@@ -1683,66 +1683,66 @@ SK,plášťom,plaːʃcɔm,BG,дреха,drɛxɐ,1.0,
 SK,plášťom,plaːʃcɔm,BG,дрехата,drɛxɐtɐ,1.0,
 SK,potom,pɔtɔm,BG,тогава,toɡavɐ,1.0,
 SK,v tom,ftɔm,BG,когато,koɡato,1.0,
-SK,viac,ʋɪaʦ,BG,по-плътно,pɔplɐtno,1.0,
-SK,viac,ʋɪaʦ,BG,по-силно,pɔsilno,1.0,
+SK,viac,ʋɪ̯aʦ,BG,по-плътно,pɔplɐtno,1.0,
+SK,viac,ʋɪ̯aʦ,BG,по-силно,pɔsilno,1.0,
 SK,vzdal,vzdal,BG,прекъсна,prɛkɤsnɐ,1.0,
-SK,za malú chvíľku,zamaluːxʋiːʎku,BG,веднага,vɛdnaɡɐ,1.0,
+SK,za malú chvíľku,zamalu̞ːxʋi̞ːʎku,BG,веднага,vɛdnaɡɐ,1.0,
 SK,zo,zɔ,BG,с,s,1.0,x
-SK,prvý,prʋiː,HR,prvi,prʋiː,0.1428571428571428,x
+SK,prvý,prʋi̞ː,HR,prvi,prʋiː,0.1666666666666667,x
 SK,ale,alɛ,HR,ali,ali,0.3333333333333333,x
 SK,je,jɛ,HR,je,je,0.5,x
 SK,je,jɛ,HR,je,je,0.5,x
-SK,nich,ɲiɣ,HR,njih,ɲiːx,0.5,x
+SK,nich,ɲi̞ɣ,HR,njih,ɲiːx,0.5,x
 SK,sa,sa,HR,se,se,0.5,x
 SK,sa,sa,HR,se,se,0.5,x
-SK,fúkal,fuːkal,HR,puhao,puːxao,0.5714285714285714,
-SK,pocestný,pɔʦɛstniː,HR,putnik,puːtniːk,0.6,
-SK,pocestný,pɔʦɛstniː,HR,putnika,puːtnika,0.6,
-SK,uznať,uznac,HR,priznati,priznati,0.625,x
-SK,nakoniec,nakɔɲɪɛʦ,HR,na kraju,nakraju,0.6666666666666666,
-SK,pocestnému,pɔʦɛstnɛːmu,HR,putnik,puːtniːk,0.6666666666666666,
+SK,fúkal,fu̞ːkal,HR,puhao,puːxao,0.5714285714285714,
+SK,pocestný,pɔʦɛstni̞ː,HR,putnik,puːtniːk,0.6,
+SK,pocestný,pɔʦɛstni̞ː,HR,putnika,puːtnika,0.6,
+SK,uznať,u̞znac,HR,priznati,priznati,0.625,x
+SK,nakoniec,nakɔɲɪ̯ɛʦ,HR,na kraju,nakraju,0.6666666666666666,
+SK,pocestnému,pɔʦɛstnɛːmu̞,HR,putnik,puːtniːk,0.6666666666666666,
 SK,začalo,zaʧalɔ,HR,počelo,poʧelo,0.6666666666666666,x
 SK,severák,sɛʋɛraːk,HR,sjeverni,sjeʋeːrniː,0.7,x
 SK,severák,sɛʋɛraːk,HR,sjeverni,sjeʋeːrniː,0.7,x
 SK,severák,sɛʋɛraːɡ,HR,sjeverni,sjeʋeːrniː,0.7,x
 SK,severák,sɛʋɛraːk,HR,sjeverni,sjeʋeːrniː,0.7,x
-SK,zakrýval,zakriːʋal,HR,umotavao,umotaːʋao,0.7,
+SK,zakrýval,zakri̞ːʋal,HR,umotavao,umotaːʋao,0.7,
 SK,kráčal,kraːʧal,HR,naišao,naiʃao,0.7142857142857143,
-SK,hádali,ɦaːdali,HR,raspravljali,raspraʋʎali,0.7272727272727273,
+SK,hádali,ɦaːdali̞,HR,raspravljali,raspraʋʎali,0.7272727272727273,
 SK,pocestného,pɔʦɛstɲɛːɦɔ,HR,putnik,puːtniːk,0.7272727272727273,
-SK,fúkať,fuːkaɟ,HR,zapuhao,zapuːxao,0.75,
-SK,za malú chvíľku,zamaluːxʋiːʎku,HR,odmah,odmaːx,0.75,
-SK,svietiť,sʋɪɛcic,HR,sjati,sjati,0.7777777777777778,
-SK,dohodli,dɔɦɔdli,HR,dogovorili,doɡoʋorili,0.8,
+SK,fúkať,fu̞ːkaɟ,HR,zapuhao,zapuːxao,0.75,
+SK,za malú chvíľku,zamalu̞ːxʋi̞ːʎku,HR,odmah,odmaːx,0.75,
+SK,svietiť,sʋɪ̯ɛci̞c,HR,sjati,sjati,0.7777777777777778,
+SK,dohodli,dɔɦɔdli̞,HR,dogovorili,doɡoʋorili,0.8,
 SK,kto,ktɔ,HR,koji,kojiː,0.8,
-SK,si,si,HR,svoj,sʋoːj,0.8,
-SK,viac,ʋɪaʦ,HR,više,ʋiʃeː,0.8,x
-SK,viac,ʋɪaʦ,HR,više,ʋiʃeː,0.8,x
-SK,silnejší,silɲɛjʃiː,HR,jači,jaʧiː,0.8333333333333334,
-SK,slnko,slŋkɔ,HR,sunce,suːn﻿ʦe,0.8571428571428571,x
-SK,slnko,slŋkɔ,HR,sunce,suːn﻿ʦe,0.8571428571428571,x
-SK,slnko,slŋkɔ,HR,sunce,suːn﻿ʦe,0.8571428571428571,x
+SK,si,si̞,HR,svoj,sʋoːj,0.8,
+SK,viac,ʋɪ̯aʦ,HR,više,ʋiʃeː,0.8,x
+SK,viac,ʋɪ̯aʦ,HR,više,ʋiʃeː,0.8,x
+SK,silnejší,si̞lɲɛjʃi̞ː,HR,jači,jaʧiː,0.8181818181818182,
+SK,slnko,slŋkɔ,HR,sunce,suːnʦe,0.8333333333333334,x
+SK,slnko,slŋkɔ,HR,sunce,suːnʦe,0.8333333333333334,x
+SK,slnko,slŋkɔ,HR,sunce,suːnʦe,0.8333333333333334,x
 SK,vzdal,vzdal,HR,odustao,odustao,0.8571428571428571,
 SK,plášťom,plaːʃcɔm,HR,kaput,kapuːt,0.875,
 SK,plášťom,plaːʃcɔm,HR,kaput,kapuːt,0.875,
-SK,zakrytý,zakritiː,HR,umotan,umotaːn,0.9,
-SK,silnejší,silɲɛjʃiː,HR,jačim,jaʧiːm,0.9090909090909091,
-SK,silnejšie,silɲɛjʃɪɛ,HR,jače,jaʧeː,0.9090909090909091,
+SK,zakrytý,zakri̞ti̞ː,HR,umotan,umotaːn,0.9,
+SK,silnejší,si̞lɲɛjʃi̞ː,HR,jačim,jaʧiːm,0.9090909090909091,
+SK,silnejšie,si̞lɲɛjʃɪ̯ɛ,HR,jače,jaʧeː,0.9090909090909091,
 SK,tak,taɡ,HR,u tom trenutku,utomtrenuːtku,0.9230769230769231,
 SK,a,a,HR,i,i,1.0,
 SK,ako,akɔ,HR,od,od,1.0,
-SK,čim,ʧim,HR,što,ʃto,1.0,
+SK,čim,ʧi̞m,HR,što,ʃto,1.0,
 SK,kto,ktɔ,HR,tko,tko,1.0,x
 SK,on,ɔn,HR,njega,ɲeɡa,1.0,~
 SK,plášť,plaːʃc,HR,kaput,kapuːt,1.0,
 SK,plášť,plaːʃc,HR,kaput,kapuːt,1.0,
 SK,potom,pɔtɔm,HR,tada,tadaː,1.0,
-SK,síl,siːl,HR,mogao,moɡao,1.0,
+SK,síl,si̞ːl,HR,mogao,moɡao,1.0,
 SK,ten,tɛn,HR,onaj,onaːj,1.0,
-SK,tým,tiːm,HR,sve,sʋe,1.0,
+SK,tým,ti̞ːm,HR,sve,sʋe,1.0,
 SK,v tom,ftɔm,HR,kad,kad,1.0,
-SK,vyzliekol,ʋizlɪɛkɔl,HR,skine,skineː,1.0,
-SK,vyzliekol,ʋizlɪɛkɔl,HR,skinuo,skinuo,1.0,
+SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,HR,skine,skineː,1.0,
+SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,HR,skinuo,skinuo,1.0,
 SK,z,z,HR,od,od,1.0,
 SK,že,ʒɛ,HR,da,da,1.0,
 SK,že,ʒɛ,HR,da,da,1.0,
@@ -1753,34 +1753,34 @@ SK,plášť,plaːʃc,SL,plašč,plaːʃʧ,0.1666666666666667,x
 SK,plášť,plaːʃc,SL,plašč,plaːʃʧ,0.1666666666666667,x
 SK,plášťom,plaːʃcɔm,SL,plašč,plaːʃʧ,0.375,x
 SK,plášťom,plaːʃcɔm,SL,plašč,plaːʃʧ,0.375,x
-SK,pocestný,pɔʦɛstniː,SL,popotnik,pɔpoːtnik,0.5,
-SK,pocestný,pɔʦɛstniː,SL,popotnik,pɔpoːtnik,0.5,
+SK,pocestný,pɔʦɛstni̞ː,SL,popotnik,pɔpoːtnik,0.5,
+SK,pocestný,pɔʦɛstni̞ː,SL,popotnik,pɔpoːtnik,0.5,
 SK,sa,sa,SL,se,sɛ,0.5,x
 SK,sa,sa,SL,se,sɛ,0.5,x
 SK,zo,zɔ,SL,z,z,0.5,x
-SK,zakrytý,zakritiː,SL,zavit,zaʋiːt,0.6,
-SK,dohodli,dɔɦɔdli,SL,dogovorila,dɔɡɔʋɔɾiːla,0.6363636363636364,
-SK,pocestnému,pɔʦɛstnɛːmu,SL,popotnik,pɔpoːtnik,0.6666666666666666,
-SK,uznať,uznac,SL,priznati,pɾiznaːti,0.6666666666666666,x
-SK,zakrýval,zakriːʋal,SL,ovijal,ɔʋiːjau,0.7,
-SK,fúkal,fuːkal,SL,pihal,piːxau,0.7142857142857143,
+SK,zakrytý,zakri̞ti̞ː,SL,zavit,zaʋiːt,0.6,
+SK,dohodli,dɔɦɔdli̞,SL,dogovorila,dɔɡɔʋɔɾiːla,0.6363636363636364,
+SK,pocestnému,pɔʦɛstnɛːmu̞,SL,popotnik,pɔpoːtnik,0.6666666666666666,
+SK,uznať,u̞znac,SL,priznati,pɾiznaːti,0.6666666666666666,x
+SK,zakrýval,zakri̞ːʋal,SL,ovijal,ɔʋiːjau,0.7,
+SK,fúkal,fu̞ːkal,SL,pihal,piːxau,0.7142857142857143,
 SK,kto,ktɔ,SL,kateri,kateːɾi,0.7142857142857143,
 SK,pocestného,pɔʦɛstɲɛːɦɔ,SL,popotnik,pɔpoːtnik,0.7272727272727273,
-SK,aby,abi,SL,bo,bo,0.75,x
-SK,fúkať,fuːkaɟ,SL,zapihal,zapiːxau,0.75,
+SK,aby,abi̞,SL,bo,bo,0.75,x
+SK,fúkať,fu̞ːkaɟ,SL,zapihal,zapiːxau,0.75,
 SK,kto,ktɔ,SL,ki mu,kimu,0.75,~
-SK,prvý,prʋiː,SL,prvemu,pəːɾʋɛmu,0.75,x
-SK,si,si,SL,svoj,sʋoi,0.75,
+SK,prvý,prʋi̞ː,SL,prvemu,pəːɾʋɛmu,0.75,x
+SK,si,si̞,SL,svoj,sʋoi,0.75,
 SK,v tom,ftɔm,SL,ko,kɔ,0.75,
-SK,nakoniec,nakɔɲɪɛʦ,SL,končno,kɔːnʧnɔ,0.7777777777777778,x
-SK,hádali,ɦaːdali,SL,prepirala,prɛpiːɾala,0.8,
+SK,nakoniec,nakɔɲɪ̯ɛʦ,SL,končno,kɔːnʧnɔ,0.7777777777777778,x
+SK,hádali,ɦaːdali̞,SL,prepirala,prɛpiːɾala,0.8,
 SK,potom,pɔtɔm,SL,nato,natoː,0.8,
-SK,silnejšie,silɲɛjʃɪɛ,SL,močnejše,mɔʧneiʃɛ,0.8181818181818182,
-SK,vyzliekol,ʋizlɪɛkɔl,SL,slekel,sleːkəu,0.8181818181818182,x
-SK,vyzliekol,ʋizlɪɛkɔl,SL,slekel,sleːkəu,0.8181818181818182,x
-SK,musel,musɛl,SL,moral,moːɾau,0.8333333333333334,
-SK,nich,ɲiɣ,SL,njiju,njiːju,0.8333333333333334,x
-SK,silnejší,silɲɛjʃiː,SL,močnejši,mɔʧneiʃi,0.8333333333333334,
+SK,silnejší,si̞lɲɛjʃi̞ː,SL,močnejši,mɔʧneiʃi,0.8181818181818182,
+SK,silnejšie,si̞lɲɛjʃɪ̯ɛ,SL,močnejše,mɔʧneiʃɛ,0.8181818181818182,x
+SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,SL,slekel,sleːkəu,0.8181818181818182,x
+SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,SL,slekel,sleːkəu,0.8181818181818182,
+SK,musel,mu̞sɛl,SL,moral,moːɾau,0.8333333333333334,x
+SK,nich,ɲi̞ɣ,SL,njiju,njiːju,0.8333333333333334,
 SK,slnko,slŋkɔ,SL,sonce,soːnʦɛ,0.8333333333333334,x
 SK,slnko,slŋkɔ,SL,sonce,soːnʦɛ,0.8333333333333334,x
 SK,slnko,slŋkɔ,SL,sonce,soːnʦɛ,0.8333333333333334,x
@@ -1790,18 +1790,18 @@ SK,severák,sɛʋɛraːk,SL,severni,seːʋəɾni,0.875,x
 SK,severák,sɛʋɛraːk,SL,severni,seːʋəɾni,0.875,x
 SK,severák,sɛʋɛraːɡ,SL,severni,seːʋəɾni,0.875,x
 SK,severák,sɛʋɛraːk,SL,severni,seːʋəɾni,0.875,x
-SK,za malú chvíľku,zamaluːxʋiːʎku,SL,takoj,takoi,0.875,
-SK,všetkých,fʃɛtkiːx,SL,vso,usɔː,0.8888888888888888,x
-SK,silnejší,silɲɛjʃiː,SL,močnejšega,mɔʧneiʃɛɡa,0.9090909090909091,
+SK,za malú chvíľku,zamalu̞ːxʋi̞ːʎku,SL,takoj,takoi,0.875,
+SK,všetkých,fʃɛtki̞ːx,SL,vso,usɔː,0.8888888888888888,x
+SK,silnejší,si̞lɲɛjʃi̞ː,SL,močnejšega,mɔʧneiʃɛɡa,0.9090909090909091,
 SK,a,a,SL,in,in,1.0,
 SK,ako,akɔ,SL,od,ɔd,1.0,
 SK,ale,alɛ,SL,toda,toda,1.0,
 SK,kráčal,kraːʧal,SL,prišel,pɾiʃɛu,1.0,
 SK,on,ɔn,SL,njega,njɛːɡa,1.0,~
-SK,síl,siːl,SL,močjo,mɔʧjoː,1.0,
-SK,svietiť,sʋɪɛcic,SL,posijalo,pɔsijaːlo,1.0,
-SK,viac,ʋɪaʦ,SL,bolj,boːl,1.0,
-SK,viac,ʋɪaʦ,SL,bolj tesno,boːltəsnoː,1.0,
+SK,síl,si̞ːl,SL,močjo,mɔʧjoː,1.0,
+SK,svietiť,sʋɪ̯ɛci̞c,SL,posijalo,pɔsijaːlo,1.0,
+SK,viac,ʋɪ̯aʦ,SL,bolj,boːl,1.0,
+SK,viac,ʋɪ̯aʦ,SL,bolj tesno,boːltəsnoː,1.0,
 SK,vzdal,vzdal,SL,popustil,pɔpuːstiu,1.0,
 SK,z,z,SL,od,ɔd,1.0,
 SK,že,ʒɛ,SL,da,da,1.0,
@@ -1880,11 +1880,11 @@ SL,v,u,HR,u,u,0.0,x
 SL,priznati,pɾiznaːti,HR,priznati,priznati,0.2222222222222222,x
 SL,zapihal,zapiːxau,HR,zapuhao,zapuːxao,0.25,x
 SL,pihal,piːxau,HR,puhao,puːxao,0.3333333333333333,x
+SL,sonce,soːnʦɛ,HR,sunce,suːnʦe,0.3333333333333333,x
+SL,sonce,soːnʦɛ,HR,sunce,suːnʦe,0.3333333333333333,x
+SL,sonce,soːnʦɛ,HR,sunce,suːnʦe,0.3333333333333333,x
 SL,svoj,sʋoi,HR,svoj,sʋoːj,0.4,x
 SL,svoj,sʋoi,HR,svoj,sʋoːj,0.4,x
-SL,sonce,soːnʦɛ,HR,sunce,suːn﻿ʦe,0.4285714285714285,x
-SL,sonce,soːnʦɛ,HR,sunce,suːn﻿ʦe,0.4285714285714285,x
-SL,sonce,soːnʦɛ,HR,sunce,suːn﻿ʦe,0.4285714285714285,x
 SL,popotnik,pɔpoːtnik,HR,putnik,puːtniːk,0.4444444444444444,x
 SL,popotnik,pɔpoːtnik,HR,putnik,puːtniːk,0.4444444444444444,x
 SL,popotnik,pɔpoːtnik,HR,putnik,puːtniːk,0.4444444444444444,x
@@ -1993,13 +1993,16 @@ UK,мандрівник,mandrʲiʋnɪk,BG,пътникът,pɤtnikɐt,0.90909090
 UK,мандрівник,mandrʲiʋnɪk,BG,пътникът,pɤtnikɐt,0.9090909090909091,
 UK,сильніший,sɪlʲnʲiʃɪi̯,BG,по-силен,pɔsilɛn,0.9090909090909091,x
 UK,північний,pʲiʋnʲiʧnɪi̯,BG,северният,sɛvɛrnijɐt,0.9166666666666666,
+UK,північний,pʲiʋnʲiʧnɪi̯,BG,северният,sɛvɛrnijɐt,0.9166666666666666,
+UK,північний,pʲiʋnʲiʧnɪi̯,BG,северният,sɛvɛrnijɐt,0.9166666666666666,~
+UK,північний,pʲiʋnʲiʧnɪi̯,BG,северният,sɛvɛrnijɐt,0.9166666666666666,
 UK,але,alɛ,BG,но,no,1.0,
-UK,було,bulɔ,BG,е,ɛ,1.0,~
+UK,було,bulɔ,BG,е,ɛ,1.0,
 UK,визнаний,ʋɪznanɪi̯,BG,счита,sʧitɐ,1.0,
-UK,вимусить,ʋɪmusɪtʲ,BG,накара,nɐkarɐ,1.0,
+UK,вимусить,ʋɪmusɪtʲ,BG,накара,nɐkarɐ,1.0,x
 UK,він,ʋin,BG,вятърът,vjatɐrɐt,1.0,
 UK,дужче,duʒʧɛ,BG,по-силно,pɔsilno,1.0,
-UK,з,z,BG,с,s,1.0,x
+UK,з,z,BG,с,s,1.0,
 UK,зняв,znʲaʋ,BG,свали,svɐli,1.0,
 UK,зняти,znʲatɪ,BG,свали,svɐli,1.0,
 UK,кутався,kutaʋsʲa,BG,увиваше,ovivɐʃɛ,1.0,
@@ -2007,9 +2010,6 @@ UK,кутаючись,kutajuʧɪsʲ,BG,завит,zɐvit,1.0,
 UK,обидва,ɔbɪdʋa,BG,те,tɛ,1.0,
 UK,отож,ɔtɔʒ,BG,така,tɐka,1.0,
 UK,пальто,palʲtɔ,BG,дреха,drɛxɐ,1.0,
-UK,північний,pʲiʋnʲiʧnɪi̯,BG,северният,sɛvɛrnijɐt,1.0,
-UK,північний,pʲiʋnʲiʧnɪi̯,BG,северният,sɛvɛrnijɐt,1.0,
-UK,північний,pʲiʋnʲiʧnɪi̯,BG,северният,sɛvɛrnijɐt,1.0,
 UK,проходив,prɔxɔdɪʋ,BG,мина,minɐ,1.0,
 UK,у,u,BG,в,f,1.0,x
 UK,хто,xtɔ,BG,кой,kɔj,1.0,x
@@ -2027,7 +2027,7 @@ UK,чим,ʧɪm,CS,čím,ʧiːm,0.5,x
 UK,сильніший,sɪlʲnʲiʃɪi̯,CS,silnější,sɪlɲɛjʃiː,0.5454545454545454,x
 UK,сильнішим,sɪlʲnʲiʃɪm,CS,silnější,sɪlɲɛjʃiː,0.6,x
 UK,сильнішим,sɪlʲnʲiʃɪm,CS,silnějšího,sɪlɲɛjʃiːɦo,0.6363636363636364,x
-UK,помітили,pɔmʲitɪlɪ,CS,spatřili,spatrɪlɪ,0.6666666666666666,
+UK,помітили,pɔmʲitɪlɪ,CS,spatřili,spatr̝ɪlɪ,0.6666666666666666,
 UK,пальто,palʲtɔ,CS,pláště,plaːʃcɛ,0.7142857142857143,
 UK,вже через декілька хвилин,ʋʒɛʧɛrɛzdɛkilʲkaxʋɪlɪn,CS,za nějaký okamžik,zaɲɛjakiːokamʒɪk,0.7272727272727273,
 UK,аж раптом,aʒraptɔm,CS,v tom,ftom,0.75,
@@ -2035,7 +2035,7 @@ UK,отож,ɔtɔʒ,CS,tak,tak,0.75,
 UK,пальто,palʲtɔ,CS,pláštěm,plaːʃcɛm,0.75,
 UK,тим,tɪm,CS,tím,ciːm,0.75,x
 UK,той,tɔi̯,CS,ten,tɛn,0.75,x
-UK,зігріло,zʲiɦrʲilɔ,CS,hřát,ɦraːt,0.7777777777777778,x
+UK,зігріло,zʲiɦrʲilɔ,CS,hřát,ɦr̝aːt,0.7777777777777778,x
 UK,кутався,kutaʋsʲa,CS,zahaloval,zaɦaloval,0.7777777777777778,
 UK,посперечалися,pɔspɛrɛʧalɪsʲa,CS,hádali,ɦaːdalɪ,0.7857142857142857,
 UK,дув,duʋ,CS,foukal,foukal,0.8333333333333334,
@@ -2083,9 +2083,9 @@ UK,вітер,ʋitɛr,HR,vjetar,ʋjetar,0.5,x
 UK,вітер,ʋitɛr,HR,vjetar,ʋjetar,0.5,x
 UK,вітер,ʋitɛr,HR,vjetar,ʋjetar,0.5,x
 UK,вітер,ʋitɛr,HR,vjetar,ʋjetar,0.5,x
-UK,сонце,sɔnʦɛ,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
-UK,сонце,sɔnʦɛ,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
-UK,сонце,sɔnʦɛ,HR,sunce,suːn﻿ʦe,0.5714285714285714,x
+UK,сонце,sɔnʦɛ,HR,sunce,suːnʦe,0.5,x
+UK,сонце,sɔnʦɛ,HR,sunce,suːnʦe,0.5,x
+UK,сонце,sɔnʦɛ,HR,sunce,suːnʦe,0.5,x
 UK,двох,dʋɔx,HR,dvoje,dʋoje,0.6,x
 UK,своє,sʋɔjɛ,HR,svoj,sʋoːj,0.6,x
 UK,своє,sʋɔjɛ,HR,svoj,sʋoːj,0.6,x
@@ -2096,16 +2096,16 @@ UK,буде,budɛ,HR,biti,biti,0.75,~
 UK,мандрівника,mandrʲiʋnɪka,HR,putnika,puːtnika,0.75,
 UK,них,nɪx,HR,njih,ɲiːx,0.75,x
 UK,північний,pʲiʋnʲiʧnɪi̯,HR,sjeverni,sjeʋeːrniː,0.75,
+UK,північний,pʲiʋnʲiʧnɪi̯,HR,sjeverni,sjeʋeːrniː,0.75,
+UK,північний,pʲiʋnʲiʧnɪi̯,HR,sjeverni,sjeʋeːrniː,0.75,
+UK,північний,pʲiʋnʲiʧnɪi̯,HR,sjeverni,sjeʋeːrniː,0.75,x
 UK,кутався,kutaʋsʲa,HR,umotavao,umotaːʋao,0.7777777777777778,
 UK,сильнішим,sɪlʲnʲiʃɪm,HR,jačim,jaʧiːm,0.8,
-UK,того,tɔɦɔ,HR,tome,tomeː,0.8,x
+UK,того,tɔɦɔ,HR,tome,tomeː,0.8,
 UK,тут,tut,HR,tada,tadaː,0.8,
 UK,дійшли спільної думки,dʲii̯ʃlɪspilʲnɔjidumkɪ,HR,dogovorili,doɡoʋorili,0.8181818181818182,
 UK,мандрівник,mandrʲiʋnɪk,HR,putnik,puːtniːk,0.8181818181818182,
 UK,мандрівник,mandrʲiʋnɪk,HR,putnik,puːtniːk,0.8181818181818182,
-UK,північний,pʲiʋnʲiʧnɪi̯,HR,sjeverni,sjeʋeːrniː,0.8181818181818182,
-UK,північний,pʲiʋnʲiʧnɪi̯,HR,sjeverni,sjeʋeːrniː,0.8181818181818182,
-UK,північний,pʲiʋnʲiʧnɪi̯,HR,sjeverni,sjeʋeːrniː,0.8181818181818182,
 UK,дув,duʋ,HR,puhao,puːxao,0.8333333333333334,
 UK,мандрівника,mandrʲiʋnɪka,HR,putnik,puːtniːk,0.8333333333333334,
 UK,пальто,palʲtɔ,HR,kaput,kapuːt,0.8333333333333334,
@@ -2156,11 +2156,11 @@ UK,чим,ʧɪm,PL,im,im,0.6666666666666666,x
 UK,визнати,ʋɪznatɪ,PL,przyznać,pʃɨznaʨ,0.7142857142857143,x
 UK,мандрівник,mandrʲiʋnɪk,PL,podróżny,podruʒnɨ,0.7272727272727273,
 UK,мандрівник,mandrʲiʋnɪk,PL,podróżny,podruʒnɨ,0.7272727272727273,
-UK,північний,pʲiʋnʲiʧnɪi̯,PL,północny,puwnoʦnɨ,0.7272727272727273,x
-UK,північний,pʲiʋnʲiʧnɪi̯,PL,północny,puwnoʦnɨ,0.7272727272727273,x
-UK,північний,pʲiʋnʲiʧnɪi̯,PL,północny,puwnoʦnɨ,0.7272727272727273,x
 UK,вимусить,ʋɪmusɪtʲ,PL,zmusi,zmuɕi,0.75,x
 UK,дув,duʋ,PL,dąć,doɲʨ,0.75,x
+UK,північний,pʲiʋnʲiʧnɪi̯,PL,północny,puwnoʦnɨ,0.75,x
+UK,північний,pʲiʋnʲiʧnɪi̯,PL,północny,puwnoʦnɨ,0.75,x
+UK,північний,pʲiʋnʲiʧnɪi̯,PL,północny,puwnoʦnɨ,0.75,x
 UK,північний,pʲiʋnʲiʧnɪi̯,PL,północny,puwnoʦnɨ,0.75,x
 UK,проходив,prɔxɔdɪʋ,PL,przechodził,pʃexoʥiw,0.75,x
 UK,той,tɔi̯,PL,ten,ten,0.75,x
@@ -2208,54 +2208,54 @@ UK,з,z,SK,z,z,0.0,x
 UK,хто,xtɔ,SK,kto,ktɔ,0.3333333333333333,x
 UK,хто,xtɔ,SK,kto,ktɔ,0.3333333333333333,x
 UK,з,z,SK,zo,zɔ,0.5,x
-UK,чим,ʧɪm,SK,čim,ʧim,0.5,x
-UK,визнати,ʋɪznatɪ,SK,uznať,uznac,0.5714285714285714,x
-UK,тим,tɪm,SK,tým,tiːm,0.6,x
+UK,чим,ʧɪm,SK,čim,ʧi̞m,0.5,x
+UK,визнати,ʋɪznatɪ,SK,uznať,u̞znac,0.5714285714285714,x
+UK,тим,tɪm,SK,tým,ti̞ːm,0.6,x
 UK,аж раптом,aʒraptɔm,SK,v tom,ftɔm,0.625,
 UK,пальто,palʲtɔ,SK,plášťom,plaːʃcɔm,0.625,
 UK,пальто,palʲtɔ,SK,plášťom,plaːʃcɔm,0.625,
-UK,сильнішим,sɪlʲnʲiʃɪm,SK,silnejšie,silɲɛjʃɪɛ,0.7272727272727273,x
+UK,сильнішим,sɪlʲnʲiʃɪm,SK,silnejšie,si̞lɲɛjʃɪ̯ɛ,0.7272727272727273,x
 UK,той,tɔi̯,SK,ten,tɛn,0.75,x
-UK,зігріло,zʲiɦrʲilɔ,SK,hriať,ɦrɪac,0.7777777777777778,x
-UK,одного разу,ɔdnɔɦɔrazu,SK,raz,﻿ras,0.8,~
-UK,своє,sʋɔjɛ,SK,si,si,0.8,
-UK,сили,sɪlɪ,SK,síl,siːl,0.8,x
+UK,зігріло,zʲiɦrʲilɔ,SK,hriať,ɦrɪ̯ac,0.7777777777777778,x
+UK,одного разу,ɔdnɔɦɔrazu,SK,raz,ras,0.8,~
+UK,своє,sʋɔjɛ,SK,si,si̞,0.8,
+UK,сили,sɪlɪ,SK,síl,si̞ːl,0.8,x
+UK,сонце,sɔnʦɛ,SK,slnko,slŋkɔ,0.8,
+UK,сонце,sɔnʦɛ,SK,slnko,slŋkɔ,0.8,x
+UK,сонце,sɔnʦɛ,SK,slnko,slŋkɔ,0.8,
 UK,тут,tut,SK,potom,pɔtɔm,0.8,
-UK,сильнішим,sɪlʲnʲiʃɪm,SK,silnejší,silɲɛjʃiː,0.8181818181818182,x
-UK,пальто,palʲtɔ,SK,plášť,plaːʃc,0.8333333333333334,
-UK,пальто,palʲtɔ,SK,plášť,plaːʃc,0.8333333333333334,
-UK,сильніший,sɪlʲnʲiʃɪi̯,SK,silnejší,silɲɛjʃiː,0.8333333333333334,x
-UK,сонце,sɔnʦɛ,SK,slnko,slŋkɔ,0.8333333333333334,x
-UK,сонце,sɔnʦɛ,SK,slnko,slŋkɔ,0.8333333333333334,x
-UK,сонце,sɔnʦɛ,SK,slnko,slŋkɔ,0.8333333333333334,x
-UK,дув,duʋ,SK,fúkal,fuːkal,0.8571428571428571,
-UK,дув,duʋ,SK,fúkať,fuːkaɟ,0.8571428571428571,
-UK,посперечалися,pɔspɛrɛʧalɪsʲa,SK,hádali,ɦaːdali,0.8571428571428571,
-UK,який,jakɪi̯,SK,ktorý,ktɔriː,0.8571428571428571,
-UK,дійшли спільної думки,dʲii̯ʃlɪspilʲnɔjidumkɪ,SK,dohodli,dɔɦɔdli,0.8636363636363636,
+UK,сильніший,sɪlʲnʲiʃɪi̯,SK,silnejší,si̞lɲɛjʃi̞ː,0.8181818181818182,x
+UK,сильнішим,sɪlʲnʲiʃɪm,SK,silnejší,si̞lɲɛjʃi̞ː,0.8181818181818182,x
+UK,пальто,palʲtɔ,SK,plášť,plaːʃc,0.8333333333333334,x
+UK,пальто,palʲtɔ,SK,plášť,plaːʃc,0.8333333333333334,x
+UK,дув,duʋ,SK,fúkal,fu̞ːkal,0.8571428571428571,
+UK,дув,duʋ,SK,fúkať,fu̞ːkaɟ,0.8571428571428571,
+UK,посперечалися,pɔspɛrɛʧalɪsʲa,SK,hádali,ɦaːdali̞,0.8571428571428571,
+UK,який,jakɪi̯,SK,ktorý,ktɔri̞ː,0.8571428571428571,
+UK,дійшли спільної думки,dʲii̯ʃlɪspilʲnɔjidumkɪ,SK,dohodli,dɔɦɔdli̞,0.8636363636363636,
 UK,перестав,pɛrɛstaʋ,SK,vzdal,vzdal,0.875,
 UK,проходив,prɔxɔdɪʋ,SK,kráčal,kraːʧal,0.875,
-UK,щільніше,ʃʧɪlʲniʃɛ,SK,viac,ʋɪaʦ,0.8888888888888888,
-UK,кутався,kutaʋsʲa,SK,zakrýval,zakriːʋal,0.9,
-UK,вже через декілька хвилин,ʋʒɛʧɛrɛzdɛkilʲkaxʋɪlɪn,SK,za malú chvíľku,zamaluːxʋiːʎku,0.9090909090909091,~
-UK,врешті-решт,ʋrɛʃtʲirɛʃt,SK,nakoniec,nakɔɲɪɛʦ,0.9090909090909091,
-UK,зняв,znʲaʋ,SK,vyzliekol,ʋizlɪɛkɔl,0.9090909090909091,
-UK,зняти,znʲatɪ,SK,vyzliekol,ʋizlɪɛkɔl,0.9090909090909091,
-UK,північний,pʲiʋnʲiʧnɪi̯,SK,severák,sɛʋɛraːk,0.9090909090909091,
-UK,північний,pʲiʋnʲiʧnɪi̯,SK,severák,sɛʋɛraːɡ,0.9090909090909091,
-UK,північний,pʲiʋnʲiʧnɪi̯,SK,severák,sɛʋɛraːk,0.9090909090909091,
-UK,мандрівника,mandrʲiʋnɪka,SK,pocestný,pɔʦɛstniː,0.9166666666666666,
+UK,щільніше,ʃʧɪlʲniʃɛ,SK,viac,ʋɪ̯aʦ,0.8888888888888888,
+UK,кутався,kutaʋsʲa,SK,zakrýval,zakri̞ːʋal,0.9,
+UK,вже через декілька хвилин,ʋʒɛʧɛrɛzdɛkilʲkaxʋɪlɪn,SK,za malú chvíľku,zamalu̞ːxʋi̞ːʎku,0.9090909090909091,~
+UK,врешті-решт,ʋrɛʃtʲirɛʃt,SK,nakoniec,nakɔɲɪ̯ɛʦ,0.9090909090909091,
+UK,зняв,znʲaʋ,SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,0.9090909090909091,
+UK,зняти,znʲatɪ,SK,vyzliekol,ʋi̞zlɪ̯ɛkɔl,0.9090909090909091,
+UK,мандрівника,mandrʲiʋnɪka,SK,pocestný,pɔʦɛstni̞ː,0.9166666666666666,
+UK,північний,pʲiʋnʲiʧnɪi̯,SK,severák,sɛʋɛraːk,0.9166666666666666,
+UK,північний,pʲiʋnʲiʧnɪi̯,SK,severák,sɛʋɛraːk,0.9166666666666666,
+UK,північний,pʲiʋnʲiʧnɪi̯,SK,severák,sɛʋɛraːɡ,0.9166666666666666,
 UK,північний,pʲiʋnʲiʧnɪi̯,SK,severák,sɛʋɛraːk,0.9166666666666666,
 UK,було,bulɔ,SK,je,jɛ,1.0,~
-UK,дужче,duʒʧɛ,SK,viac,ʋɪaʦ,1.0,
+UK,дужче,duʒʧɛ,SK,viac,ʋɪ̯aʦ,1.0,
 UK,і,i,SK,a,a,1.0,
-UK,кутаючись,kutajuʧɪsʲ,SK,zakrytý,zakritiː,1.0,
-UK,мандрівник,mandrʲiʋnɪk,SK,pocestnému,pɔʦɛstnɛːmu,1.0,
-UK,мандрівник,mandrʲiʋnɪk,SK,pocestný,pɔʦɛstniː,1.0,
+UK,кутаючись,kutajuʧɪsʲ,SK,zakrytý,zakri̞ti̞ː,1.0,
+UK,мандрівник,mandrʲiʋnɪk,SK,pocestnému,pɔʦɛstnɛːmu̞,1.0,
+UK,мандрівник,mandrʲiʋnɪk,SK,pocestný,pɔʦɛstni̞ː,1.0,
 UK,мандрівника,mandrʲiʋnɪka,SK,pocestného,pɔʦɛstɲɛːɦɔ,1.0,
-UK,них,nɪx,SK,nich,ɲiɣ,1.0,x
-UK,помітили,pɔmʲitɪlɪ,SK,zbadali,zbadali,1.0,
-UK,усієї,usijɛji,SK,všetkých,fʃɛtkiːx,1.0,x
+UK,них,nɪx,SK,nich,ɲi̞ɣ,1.0,x
+UK,помітили,pɔmʲitɪlɪ,SK,zbadali,zbadali̞,1.0,
+UK,усієї,usijɛji,SK,všetkých,fʃɛtki̞ːx,1.0,x
 UK,що,ʃʧɔ,SK,že,ʒɛ,1.0,
 UK,що,ʃʧɔ,SK,že,ʒɛ,1.0,
 UK,з,z,SL,z,z,0.0,x
@@ -2280,13 +2280,13 @@ UK,сильнішим,sɪlʲnʲiʃɪm,SL,močnejše,mɔʧneiʃɛ,0.7,
 UK,усієї,usijɛji,SL,vso,usɔː,0.7142857142857143,x
 UK,буде,budɛ,SL,bo,bo,0.75,x
 UK,північний,pʲiʋnʲiʧnɪi̯,SL,severni,seːʋəɾni,0.75,
+UK,північний,pʲiʋnʲiʧnɪi̯,SL,severni,seːʋəɾni,0.75,
+UK,північний,pʲiʋnʲiʧnɪi̯,SL,severni,seːʋəɾni,0.75,
+UK,північний,pʲiʋnʲiʧnɪi̯,SL,severni,seːʋəɾni,0.75,
 UK,сильнішим,sɪlʲnʲiʃɪm,SL,močnejšega,mɔʧneiʃɛɡa,0.8,
 UK,тут,tut,SL,nato,natoː,0.8,
 UK,мандрівник,mandrʲiʋnɪk,SL,popotnik,pɔpoːtnik,0.8181818181818182,
 UK,мандрівник,mandrʲiʋnɪk,SL,popotnik,pɔpoːtnik,0.8181818181818182,
-UK,північний,pʲiʋnʲiʧnɪi̯,SL,severni,seːʋəɾni,0.8181818181818182,
-UK,північний,pʲiʋnʲiʧnɪi̯,SL,severni,seːʋəɾni,0.8181818181818182,
-UK,північний,pʲiʋnʲiʧnɪi̯,SL,severni,seːʋəɾni,0.8181818181818182,
 UK,мандрівника,mandrʲiʋnɪka,SL,popotnik,pɔpoːtnik,0.8333333333333334,
 UK,мандрівника,mandrʲiʋnɪka,SL,popotnik,pɔpoːtnik,0.8333333333333334,
 UK,них,nɪx,SL,njiju,njiːju,0.8333333333333334,x
@@ -2319,3 +2319,148 @@ UK,сили,sɪlɪ,SL,močjo,mɔʧjoː,1.0,
 UK,хто,xtɔ,SL,ki mu,kimu,1.0,~
 UK,що,ʃʧɔ,SL,da,da,1.0,
 UK,що,ʃʧɔ,SL,da,da,1.0,
+BE,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Паўночны Вецер,pawnoʧnivʲeʦʲer,0.647058824,x
+UK,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+PL,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+CS,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severák,sɛvɛraːk,0.823529412,x
+SK,северный ветер,sʲevʲirnɨjvʲetʲir,SL,severák ,sɛʋɛraːk,0.882352941,x
+SL,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+HR,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235294,x
+BG,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647058824,x
+UK,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+PL,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Północny Wiatr,puwnoʦnɨvjatr,0.533333333,x
+CS,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severák,sɛvɛraːk,0.933333333,x
+SK,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,severák ,sɛʋɛraːk,1.0,x
+SL,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
+HR,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BG,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.875,x
+PL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+CS,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severák,sɛvɛraːk,1.0,x
+SK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,severák ,sɛʋɛraːk,0.941176471,x
+SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+HR,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882353,x
+BG,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529412,x
+CS,Północny Wiatr,puwnoʦnɨvjatr,SL,Severák,sɛvɛraːk,0.923076923,x
+SK,Północny Wiatr,puwnoʦnɨvjatr,SL,severák ,sɛʋɛraːk,0.923076923,x
+SL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+HR,Północny Wiatr,puwnoʦnɨvjatr,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+BG,Północny Wiatr,puwnoʦnɨvjatr,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+SK,Severák,sɛvɛraːk,SL,severák ,sɛʋɛraːk,0.125,x
+SL,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+HR,Severák,sɛvɛraːk,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BG,Severák,sɛvɛraːk,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+SL,severák ,sɛʋɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714286,x
+HR,severák ,sɛʋɛraːk,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+BG,severák ,sɛʋɛraːk,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+HR,Severni veter,seːʋəɾniʋeːtəɾ,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
+BG,Severni veter,seːʋəɾniʋeːtəɾ,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
+BG,Sjeverni vjetar,sjeʋeːrniːʋjetar,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+BE,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Паўночны Вецер,pawnoʃnivʲeʦʲer,0.647058824,x
+UK,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+PL,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+CS,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severák,sɛvɛraːk,0.823529412,x
+SK,северный ветер,sʲevʲirnɨjvʲetʲir,SL,severák ,sɛʋɛraːk,0.882352941,x
+SL,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+HR,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235294,x
+BG,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647058824,x
+UK,Паўночны Вецер,pawnoʃnivʲeʦʲer,SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.764705882,x
+PL,Паўночны Вецер,pawnoʃnivʲeʦʲer,SL,Północny Wiatr,puwnoʦnɨvjatr,0.533333333,x
+CS,Паўночны Вецер,pawnoʃnivʲeʦʲer,SL,Severák,sɛvɛraːk,0.933333333,x
+SK,Паўночны Вецер,pawnoʃnivʲeʦʲer,SL,severák ,sɛʋɛraːk,1.0,x
+SL,Паўночны Вецер,pawnoʃnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
+HR,Паўночны Вецер,pawnoʃnivʲeʦʲer,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BG,Паўночны Вецер,pawnoʃnivʲeʦʲer,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.875,x
+PL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+CS,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severák,sɛvɛraːk,1.0,x
+SK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,severák ,sɛʋɛraːk,0.941176471,x
+SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+HR,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882353,x
+BG,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529412,x
+CS,Północny Wiatr,puwnoʦnɨvjatr,SL,Severák,sɛvɛraːk,0.923076923,x
+SK,Północny Wiatr,puwnoʦnɨvjatr,SL,severák ,sɛʋɛraːk,0.923076923,x
+SL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+HR,Północny Wiatr,puwnoʦnɨvjatr,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+BG,Północny Wiatr,puwnoʦnɨvjatr,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+SK,Severák,sɛvɛraːk,SL,severák ,sɛʋɛraːk,0.125,x
+SL,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+HR,Severák,sɛvɛraːk,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BG,Severák,sɛvɛraːk,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+SL,severák ,sɛʋɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714286,x
+HR,severák ,sɛʋɛraːk,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+BG,severák ,sɛʋɛraːk,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+HR,Severni veter,seːʋəɾniʋeːtəɾ,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
+BG,Severni veter,seːʋəɾniʋeːtəɾ,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
+BG,Sjeverni vjetar,sjeʋeːrniːʋjetar,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+BE,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Паўночны Вецер,pawnoʧnivʲeʦʲer,0.647058824,x
+UK,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+PL,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+CS,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severák,sɛvɛraːk,0.823529412,x
+SK,северный ветер,sʲevʲirnɨjvʲetʲir,SL,severák ,sɛʋɛraːɡ,0.882352941,x
+SL,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+HR,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235294,x
+BG,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647058824,x
+UK,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+PL,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Północny Wiatr,puwnoʦnɨvjatr,0.533333333,x
+CS,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severák,sɛvɛraːk,0.933333333,x
+SK,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,severák ,sɛʋɛraːɡ,1.0,x
+SL,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
+HR,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BG,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.875,x
+PL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+CS,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severák,sɛvɛraːk,1.0,x
+SK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,severák ,sɛʋɛraːɡ,0.941176471,x
+SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+HR,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882353,x
+BG,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529412,x
+CS,Północny Wiatr,puwnoʦnɨvjatr,SL,Severák,sɛvɛraːk,0.923076923,x
+SK,Północny Wiatr,puwnoʦnɨvjatr,SL,severák ,sɛʋɛraːɡ,0.923076923,x
+SL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+HR,Północny Wiatr,puwnoʦnɨvjatr,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+BG,Północny Wiatr,puwnoʦnɨvjatr,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+SK,Severák,sɛvɛraːk,SL,severák ,sɛʋɛraːɡ,0.25,x
+SL,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+HR,Severák,sɛvɛraːk,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BG,Severák,sɛvɛraːk,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+SL,severák ,sɛʋɛraːɡ,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714286,x
+HR,severák ,sɛʋɛraːɡ,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+BG,severák ,sɛʋɛraːɡ,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+HR,Severni veter,seːʋəɾniʋeːtəɾ,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
+BG,Severni veter,seːʋəɾniʋeːtəɾ,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
+BG,Sjeverni vjetar,sjeʋeːrniːʋjetar,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+BE,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Паўночны Вецер,pawnoʧnivʲeʦʲer,0.647058824,x
+UK,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+PL,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+CS,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severák,sɛvɛraːk,0.823529412,x
+SK,северный ветер,sʲevʲirnɨjvʲetʲir,SL,severák ,sɛʋɛraːk,0.882352941,x
+SL,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+HR,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235294,x
+BG,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647058824,x
+UK,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+PL,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Północny Wiatr,puwnoʦnɨvjatr,0.533333333,x
+CS,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severák,sɛvɛraːk,0.933333333,x
+SK,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,severák ,sɛʋɛraːk,1.0,x
+SL,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
+HR,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BG,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.875,x
+PL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+CS,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severák,sɛvɛraːk,1.0,x
+SK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,severák ,sɛʋɛraːk,0.941176471,x
+SL,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+HR,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882353,x
+BG,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529412,x
+CS,Północny Wiatr,puwnoʦnɨvjatr,SL,Severák,sɛvɛraːk,0.923076923,x
+SK,Północny Wiatr,puwnoʦnɨvjatr,SL,severák ,sɛʋɛraːk,0.923076923,x
+SL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+HR,Północny Wiatr,puwnoʦnɨvjatr,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+BG,Północny Wiatr,puwnoʦnɨvjatr,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+SK,Severák,sɛvɛraːk,SL,severák ,sɛʋɛraːk,0.125,x
+SL,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+HR,Severák,sɛvɛraːk,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BG,Severák,sɛvɛraːk,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+SL,severák ,sɛʋɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714286,x
+HR,severák ,sɛʋɛraːk,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+BG,severák ,sɛʋɛraːk,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+HR,Severni veter,seːʋəɾniʋeːtəɾ,SL,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
+BG,Severni veter,seːʋəɾniʋeːtəɾ,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
+BG,Sjeverni vjetar,sjeʋeːrniːʋjetar,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+BG,Sjeverni vjetar,sjeʋeːrniːʋjetar,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
