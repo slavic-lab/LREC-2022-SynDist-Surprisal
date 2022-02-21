@@ -847,6 +847,6 @@ plt.ylabel('Orthographic Adaptation Surprisal', fontsize=22)
 plt.xlabel('Phonetic Adaptation Surprisal', fontsize=22)
 for i, label in enumerate(labels):
     plt.annotate(label, (X[i], Y[i]), xytext = (X[i]+0.01, Y[i]-0.01))
-plt.savefig('Orthographic and Phonetic Surprisal.png', dpi=200)
+plt.savefig('Surprisal/Orthographic and Phonetic Surprisal.png', dpi=200)
 plt.show()
 plt.close()
