@@ -2319,148 +2319,147 @@ UK,сили,sɪlɪ,SL,močjo,mɔʧjoː,1.0,
 UK,хто,xtɔ,SL,ki mu,kimu,1.0,~
 UK,що,ʃʧɔ,SL,da,da,1.0,
 UK,що,ʃʧɔ,SL,da,da,1.0,
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,0.647059,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,CS,Severák,sɛvɛraːk,0.823529,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,SK,severák ,sɛʋɛraːk,0.882353,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764706,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647059,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,PL,Północny Wiatr,puwnoʦnɨvjatr,0.533333,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,CS,Severák,sɛvɛraːk,0.933333,
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SK,severák ,sɛʋɛraːk,1.0,
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
 BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.875,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,CS,Severák,sɛvɛraːk,1.0,
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SK,severák ,sɛʋɛraːk,0.941176,
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764706,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,CS,Severák,sɛvɛraːk,0.923077,
-PL,Północny Wiatr,puwnoʦnɨvjatr,SK,severák ,sɛʋɛraːk,0.923077,
-PL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857143,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
-CS,Severák,sɛvɛraːk,SK,severák ,sɛʋɛraːk,0.125,x
-CS,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857143,x
-CS,Severák,sɛvɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
-CS,Severák,sɛvɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
-SK,severák ,sɛʋɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714,x
-SK,severák ,sɛʋɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
-SK,severák ,sɛʋɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
-SL,Severni veter,seːʋəɾniʋeːtəɾ,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
-SL,Severni veter,seːʋəɾniʋeːtəɾ,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
-HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,0.647059,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,CS,Severák,sɛvɛraːk,0.823529,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,SK,severák ,sɛʋɛraːk,0.882353,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764706,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647059,x
-BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.764706,x
-BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,PL,Północny Wiatr,puwnoʦnɨvjatr,0.533333,x
-BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,CS,Severák,sɛvɛraːk,0.933333,
-BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,SK,severák ,sɛʋɛraːk,1.0,
-BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
-BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
 BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.875,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,CS,Severák,sɛvɛraːk,1.0,
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SK,severák ,sɛʋɛraːk,0.941176,
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764706,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,CS,Severák,sɛvɛraːk,0.923077,
-PL,Północny Wiatr,puwnoʦnɨvjatr,SK,severák ,sɛʋɛraːk,0.923077,
-PL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857143,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
-CS,Severák,sɛvɛraːk,SK,severák ,sɛʋɛraːk,0.125,x
-CS,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857143,x
-CS,Severák,sɛvɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
-CS,Severák,sɛvɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
-SK,severák ,sɛʋɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714,x
-SK,severák ,sɛʋɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
-SK,severák ,sɛʋɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
-SL,Severni veter,seːʋəɾniʋeːtəɾ,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
-SL,Severni veter,seːʋəɾniʋeːtəɾ,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
-HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,0.647059,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,CS,Severák,sɛvɛraːk,0.823529,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,SK,severák ,sɛʋɛraːɡ,0.882353,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764706,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647059,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,PL,Północny Wiatr,puwnoʦnɨvjatr,0.533333,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,CS,Severák,sɛvɛraːk,0.933333,
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SK,severák ,sɛʋɛraːɡ,1.0,
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
 BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.875,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,CS,Severák,sɛvɛraːk,1.0,
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SK,severák ,sɛʋɛraːɡ,0.941176,
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764706,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,CS,Severák,sɛvɛraːk,0.923077,
-PL,Północny Wiatr,puwnoʦnɨvjatr,SK,severák ,sɛʋɛraːɡ,0.923077,
-PL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857143,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
-CS,Severák,sɛvɛraːk,SK,severák ,sɛʋɛraːɡ,0.25,x
-CS,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857143,x
-CS,Severák,sɛvɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
-CS,Severák,sɛvɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
-SK,severák ,sɛʋɛraːɡ,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714,x
-SK,severák ,sɛʋɛraːɡ,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
-SK,severák ,sɛʋɛraːɡ,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
-SL,Severni veter,seːʋəɾniʋeːtəɾ,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
-SL,Severni veter,seːʋəɾniʋeːtəɾ,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
-HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,0.647059,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,CS,Severák,sɛvɛraːk,0.823529,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,SK,severák ,sɛʋɛraːk,0.882353,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764706,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235,x
-RU,северный ветер,sʲevʲirnɨjvʲetʲir,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647059,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,PL,Północny Wiatr,puwnoʦnɨvjatr,0.533333,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,CS,Severák,sɛvɛraːk,0.933333,
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SK,severák ,sɛʋɛraːk,1.0,
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
-BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
 BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.875,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,CS,Severák,sɛvɛraːk,1.0,
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SK,severák ,sɛʋɛraːk,0.941176,
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764706,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882,x
-UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,CS,Severák,sɛvɛraːk,0.923077,
-PL,Północny Wiatr,puwnoʦnɨvjatr,SK,severák ,sɛʋɛraːk,0.923077,
-PL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857143,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
-PL,Północny Wiatr,puwnoʦnɨvjatr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
-CS,Severák,sɛvɛraːk,SK,severák ,sɛʋɛraːk,0.125,x
-CS,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857143,x
-CS,Severák,sɛvɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,CS,Severák,sɛvɛraːk,0.933333333,
+BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,CS,Severák,sɛvɛraːk,0.933333333,
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,CS,Severák,sɛvɛraːk,0.933333333,
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,CS,Severák,sɛvɛraːk,0.933333333,
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,PL,Północny Wiatr,puwnoʦnɨvjatr,0.533333333,x
+BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,PL,Północny Wiatr,puwnoʦnɨvjatr,0.533333333,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,PL,Północny Wiatr,puwnoʦnɨvjatr,0.533333333,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,PL,Północny Wiatr,puwnoʦnɨvjatr,0.533333333,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SK,severák ,sɛʋɛraːk,1,
+BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,SK,severák ,sɛʋɛraːk,1,
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SK,severák ,sɛʋɛraːɡ,1,
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SK,severák ,sɛʋɛraːk,1,
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
+BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.8,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.764705882,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
 CS,Severák,sɛvɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
-SK,severák ,sɛʋɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714,x
-SK,severák ,sɛʋɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
-SK,severák ,sɛʋɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
-SL,Severni veter,seːʋəɾniʋeːtəɾ,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
-SL,Severni veter,seːʋəɾniʋeːtəɾ,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
+CS,Severák,sɛvɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+CS,Severák,sɛvɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+CS,Severák,sɛvɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+CS,Severák,sɛvɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+CS,Severák,sɛvɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+CS,Severák,sɛvɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+CS,Severák,sɛvɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.8125,x
+CS,Severák,sɛvɛraːk,SK,severák ,sɛʋɛraːk,0.125,x
+CS,Severák,sɛvɛraːk,SK,severák ,sɛʋɛraːk,0.125,x
+CS,Severák,sɛvɛraːk,SK,severák ,sɛʋɛraːɡ,0.25,x
+CS,Severák,sɛvɛraːk,SK,severák ,sɛʋɛraːk,0.125,x
+CS,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+CS,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+CS,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+CS,Severák,sɛvɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
 HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
-BG,Sjeverni vjetar,sjeʋeːrniːʋjetar,SL,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.625,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,CS,Severák,sɛvɛraːk,0.923076923,
+PL,Północny Wiatr,puwnoʦnɨvjatr,CS,Severák,sɛvɛraːk,0.923076923,
+PL,Północny Wiatr,puwnoʦnɨvjatr,CS,Severák,sɛvɛraːk,0.923076923,
+PL,Północny Wiatr,puwnoʦnɨvjatr,CS,Severák,sɛvɛraːk,0.923076923,
+PL,Północny Wiatr,puwnoʦnɨvjatr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,SK,severák ,sɛʋɛraːk,0.923076923,
+PL,Północny Wiatr,puwnoʦnɨvjatr,SK,severák ,sɛʋɛraːk,0.923076923,
+PL,Północny Wiatr,puwnoʦnɨvjatr,SK,severák ,sɛʋɛraːɡ,0.923076923,
+PL,Północny Wiatr,puwnoʦnɨvjatr,SK,severák ,sɛʋɛraːk,0.923076923,
+PL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+PL,Północny Wiatr,puwnoʦnɨvjatr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.857142857,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,0.647058824,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,BE,Паўночны Вецер,pawnoʃnivʲeʦʲer,0.647058824,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,0.647058824,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,BE,Паўночны Вецер,pawnoʧnivʲeʦʲer,0.647058824,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647058824,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647058824,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647058824,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.647058824,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,CS,Severák,sɛvɛraːk,0.823529412,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,CS,Severák,sɛvɛraːk,0.823529412,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,CS,Severák,sɛvɛraːk,0.823529412,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,CS,Severák,sɛvɛraːk,0.823529412,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235294,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235294,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235294,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.588235294,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,SK,severák ,sɛʋɛraːk,0.882352941,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,SK,severák ,sɛʋɛraːk,0.882352941,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,SK,severák ,sɛʋɛraːɡ,0.882352941,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,SK,severák ,sɛʋɛraːk,0.882352941,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+RU,северный ветер,sʲevʲirnɨjvʲetʲir,UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,0.705882353,x
+SK,severák ,sɛʋɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+SK,severák ,sɛʋɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+SK,severák ,sɛʋɛraːɡ,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+SK,severák ,sɛʋɛraːk,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.6875,x
+SK,severák ,sɛʋɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+SK,severák ,sɛʋɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+SK,severák ,sɛʋɛraːɡ,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+SK,severák ,sɛʋɛraːk,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.75,x
+SK,severák ,sɛʋɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714286,x
+SK,severák ,sɛʋɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714286,x
+SK,severák ,sɛʋɛraːɡ,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714286,x
+SK,severák ,sɛʋɛraːk,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.785714286,x
+SL,Severni veter,seːʋəɾniʋeːtəɾ,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
+SL,Severni veter,seːʋəɾniʋeːtəɾ,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
+SL,Severni veter,seːʋəɾniʋeːtəɾ,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
+SL,Severni veter,seːʋəɾniʋeːtəɾ,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.8125,x
+SL,Severni veter,seːʋəɾniʋeːtəɾ,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
+SL,Severni veter,seːʋəɾniʋeːtəɾ,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
+SL,Severni veter,seːʋəɾniʋeːtəɾ,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
+SL,Severni veter,seːʋəɾniʋeːtəɾ,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.625,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529412,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529412,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529412,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,BG,Северният вятър,sɛvɛrnijɐtvjatɐr,0.823529412,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,CS,Severák,sɛvɛraːk,1,
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,CS,Severák,sɛvɛraːk,1,
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,CS,Severák,sɛvɛraːk,1,
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,CS,Severák,sɛvɛraːk,1,
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882353,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882353,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882353,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,HR,Sjeverni vjetar,sjeʋeːrniːʋjetar,0.705882353,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,PL,Północny Wiatr,puwnoʦnɨvjatr,0.705882353,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SK,severák ,sɛʋɛraːk,0.941176471,
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SK,severák ,sɛʋɛraːk,0.941176471,
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SK,severák ,sɛʋɛraːɡ,0.941176471,
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SK,severák ,sɛʋɛraːk,0.941176471,
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x
+UK,Північний вітер,pʲiʋnʲiʧnɪi̯ʋitɛr,SL,Severni veter,seːʋəɾniʋeːtəɾ,0.764705882,x

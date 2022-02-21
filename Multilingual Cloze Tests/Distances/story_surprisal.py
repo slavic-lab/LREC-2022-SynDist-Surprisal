@@ -452,12 +452,13 @@ try:
         
         #Same process for orthographic forms
         #Extract orthograhic word forms
-        orth1, orth2 = strip_ch(row.Word1, ['\ufeff']), strip_ch(row.Word2, ['\ufeff'])
+        orth1, orth2 = strip_ch(row.Word1, ['\ufeff']).lower(), strip_ch(row.Word2, ['\ufeff']).lower()
         
         #Align orthographic word forms
         orth_alignment1 = orth_align(orth1, orth2, 
                                      lang1_digraphs=slavic_digraphs[l1], 
-                                     lang2_digraphs=slavic_digraphs[l2])
+                                     lang2_digraphs=slavic_digraphs[l2],
+                                     lang1=l1, lang2=l2)
         for pair in orth_alignment1:
             ch1, ch2 = pair
             orthographic_correspondences[l1][l2][ch1][ch2] += 1
@@ -474,8 +475,8 @@ except FileNotFoundError:
 #Create dictionary of identified cognate pairs
 cognate_dict = defaultdict(lambda:[])
 for i, row in matched_cognates.iterrows():
-    cognate_dict[(row.L1, row.L2)].append((row.Word1.strip(), row.Word2.strip()))
-    cognate_dict[(row.L2, row.L1)].append((row.Word2.strip(), row.Word1.strip()))
+    cognate_dict[(row.L1, row.L2)].append((row.Word1.strip().lower(), row.Word2.strip().lower()))
+    cognate_dict[(row.L2, row.L1)].append((row.Word2.strip().lower(), row.Word1.strip().lower()))
 
 
 #%%
@@ -592,7 +593,8 @@ for sheet, d_dict, corr_dict, align_func, surprisal_dict, label in zip(['Multipl
                                     word1, word2 = word1.lower().strip(), word2.lower().strip()
                                     alignment = align_func(word1, word2, 
                                                            lang1_digraphs=slavic_digraphs[l1], 
-                                                           lang2_digraphs=slavic_digraphs[l2])
+                                                           lang2_digraphs=slavic_digraphs[l2],
+                                                           lang1=l1, lang2=l2)
                                     
                                     #Check if the words are cognate, non-cognate, or a gap alignment
                                     #Save pair to appropriate list
